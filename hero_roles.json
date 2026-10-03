@@ -1,0 +1,411 @@
+{
+  "Goverra": [
+    29
+  ],
+  "Heino": [
+    29
+  ],
+  "Billow": [
+    32
+  ],
+  "Bolt Baron": [
+    29
+  ],
+  "Biron": [
+    28
+  ],
+  "Dolia": [
+    30
+  ],
+  "Charlotte": [
+    28
+  ],
+  "Tachi": [
+    28
+  ],
+  "Dirak": [
+    29
+  ],
+  "Qi": [
+    28,
+    32
+  ],
+  "Erin": [
+    33
+  ],
+  "Ming": [
+    30
+  ],
+  "Bijan": [
+    28
+  ],
+  "Bonnie": [
+    29
+  ],
+  "Teeri": [
+    33
+  ],
+  "Yue": [
+    29
+  ],
+  "Yan": [
+    28,
+    32
+  ],
+  "Aya": [
+    30
+  ],
+  "Aoi": [
+    32
+  ],
+  "Iggy": [
+    29
+  ],
+  "Bright": [
+    33,
+    32
+  ],
+  "Lorion": [
+    29
+  ],
+  "Dextra": [
+    28,
+    31
+  ],
+  "Sinestrea": [
+    32
+  ],
+  "Thorne": [
+    33
+  ],
+  "Allain": [
+    28
+  ],
+  "Zata": [
+    29,
+    32
+  ],
+  "Rouie": [
+    30
+  ],
+  "Laville": [
+    33
+  ],
+  "Paine": [
+    32
+  ],
+  "Ata": [
+    28,
+    31
+  ],
+  "Keera": [
+    32
+  ],
+  "Ishar": [
+    29,
+    30
+  ],
+  "Eland'orr": [
+    33
+  ],
+  "Krizzix": [
+    30
+  ],
+  "Volkath": [
+    28,
+    32
+  ],
+  "Celica": [
+    33
+  ],
+  "Zip": [
+    30
+  ],
+  "Enzo": [
+    32
+  ],
+  "Yena": [
+    28
+  ],
+  "Errol": [
+    28
+  ],
+  "Capheny": [
+    33
+  ],
+  "Hayate": [
+    33
+  ],
+  "D'Arcy": [
+    29
+  ],
+  "Veres": [
+    28
+  ],
+  "Florentino": [
+    28
+  ],
+  "Sephera": [
+    30,
+    29
+  ],
+  "Quillen": [
+    32
+  ],
+  "Richter": [
+    28
+  ],
+  "Elsu": [
+    33
+  ],
+  "Y'bneth": [
+    31
+  ],
+  "Amily": [
+    28
+  ],
+  "Annette": [
+    30,
+    29
+  ],
+  "Baldum": [
+    31,
+    30
+  ],
+  "Roxie": [
+    28,
+    31
+  ],
+  "Marja": [
+    29
+  ],
+  "Rourke": [
+    28
+  ],
+  "Arum": [
+    31,
+    30
+  ],
+  "Wisp": [
+    33
+  ],
+  "The Flash": [
+    29,
+    32
+  ],
+  "Max": [
+    31
+  ],
+  "Liliana": [
+    29,
+    32
+  ],
+  "Tulen": [
+    29
+  ],
+  "Omen": [
+    28
+  ],
+  "Lindis": [
+    33
+  ],
+  "TeeMee": [
+    30,
+    31
+  ],
+  "Moren": [
+    33
+  ],
+  "Kil'Groth": [
+    28
+  ],
+  "Xeniel": [
+    30,
+    31
+  ],
+  "Wonder Woman": [
+    28
+  ],
+  "Superman": [
+    28
+  ],
+  "Tel'Annas": [
+    33
+  ],
+  "Astrid": [
+    28,
+    32
+  ],
+  "Ryoma": [
+    28,
+    32
+  ],
+  "Stuart": [
+    33
+  ],
+  "Arduin": [
+    28,
+    31
+  ],
+  "Zill": [
+    29,
+    32
+  ],
+  "Murad": [
+    32
+  ],
+  "Ignis": [
+    29
+  ],
+  "Zuka": [
+    28,
+    32
+  ],
+  "Airi": [
+    32,
+    28
+  ],
+  "Kaine": [
+    32
+  ],
+  "Lauriel": [
+    29
+  ],
+  "Raz": [
+    29,
+    32
+  ],
+  "Skud": [
+    28,
+    31
+  ],
+  "Preyta": [
+    29
+  ],
+  "Ilumia": [
+    29
+  ],
+  "Slimz": [
+    33
+  ],
+  "Arthur": [
+    28
+  ],
+  "Kriknak": [
+    32
+  ],
+  "Ngộ Không": [
+    32
+  ],
+  "Maloch": [
+    28,
+    31
+  ],
+  "Helen": [
+    30
+  ],
+  "Jinna": [
+    29
+  ],
+  "Cresht": [
+    31,
+    30
+  ],
+  "Natalya": [
+    29
+  ],
+  "Lumburr": [
+    31,
+    30
+  ],
+  "Fennik": [
+    33
+  ],
+  "Aleister": [
+    29
+  ],
+  "Grakk": [
+    31,
+    30
+  ],
+  "Nakroth": [
+    32
+  ],
+  "Taara": [
+    31,
+    28
+  ],
+  "Toro": [
+    31,
+    30
+  ],
+  "Yorn": [
+    33
+  ],
+  "Gildur": [
+    29,
+    30,
+    31
+  ],
+  "Alice": [
+    30
+  ],
+  "Azzen'Ka": [
+    29
+  ],
+  "Ormarr": [
+    28,
+    31
+  ],
+  "Butterfly": [
+    32,
+    28
+  ],
+  "Violet": [
+    33
+  ],
+  "Chaugnar": [
+    30,
+    31
+  ],
+  "Điêu Thuyền": [
+    29
+  ],
+  "Zephys": [
+    28,
+    32
+  ],
+  "Kahlii": [
+    29
+  ],
+  "Omega": [
+    31,
+    30
+  ],
+  "Triệu Vân": [
+    28
+  ],
+  "Mganga": [
+    29
+  ],
+  "Krixi": [
+    29
+  ],
+  "Mina": [
+    31,
+    30
+  ],
+  "Lữ Bố": [
+    28
+  ],
+  "Veera": [
+    29
+  ],
+  "Thane": [
+    31,
+    30
+  ],
+  "Valhein": [
+    33
+  ]
+}

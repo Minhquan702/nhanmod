@@ -1,0 +1,5 @@
+Áp dụng cho source Garena V3.1/V3.2 đã gửi.
+Giải nén và ghi đè vào thư mục source bot; commit/upload và redeploy/restart. Không thay token, Variables, volume.
+Giữ phần vai trò bổ sung từ bản sửa trước.
+Sửa font, tiêu đề, nhãn, ảnh lớn và thứ tự thumbnail giống mẫu Garena hơn. Ô mặc định chỉ xem ảnh, không làm thay lựa chọn tạo mod.
+Không thay bộ tạo mod, tài nguyên, danh mục skin, admin hoặc mật khẩu.

@@ -1,0 +1,13 @@
+CYBER STUDIO V2 — GIAO DIỆN CÔNG NGHỆ
+
+Upload source mới vào service bot hiện tại rồi redeploy. Giữ Variables và volume riêng của bot; không sửa service web.
+
+- Bố cục mới, nền đen xanh, điểm nhấn cyan, header và thanh điều hướng mới.
+- Vòng lõi công nghệ chuyển động nhẹ, chuyển trang, hộp thoại và phản hồi chọn skin.
+- Danh sách tướng dạng thẻ gọn 2 cột trên điện thoại / 4 cột desktop, 24 tướng mỗi trang.
+- Giữ ảnh đã tải khi đổi tùy chọn; chọn skin chỉ cập nhật ô liên quan, giữ vị trí cuộn.
+- Không dùng canvas, particle hoặc blur toàn màn hình. Chủ yếu chuyển động bằng transform/opacity.
+- Tạm dừng animation và polling khi app bị ẩn; tuân thủ tùy chọn giảm chuyển động của thiết bị.
+- Giữ các chức năng và bộ tạo file; chỉ đổi giao diện, thương hiệu hiển thị và build ID.
+
+Nếu Telegram vẫn hiển thị menu cũ, đóng Mini App và mở lại từ /start sau khi Railway deploy thành công. HTML trả no-store để tránh dùng trang cũ.

@@ -1,0 +1,6 @@
+GARENA GALLERY V3
+Thanh công cụ cố định dưới: Tướng/Skin · Đã chọn · Lịch sử · Cài đặt.
+Chuyển màn 240ms, chọn skin 180ms; dùng transform/opacity. Không dùng canvas, particles hoặc blur toàn màn. Tắt chuyển động theo reduced-motion, dừng khi ẩn ứng dụng.
+Ảnh lazy-load, WebP, giữ DOM thumbnail khi chọn. Ảnh splash không kéo giãn.
+/admin: 177207 mặc định, biến BOT_ADMIN_PASSWORD có ưu tiên.
+Ảnh Garena: 123 tướng; 1076 mục skin đã ghép, 84 mục dùng ảnh cũ.

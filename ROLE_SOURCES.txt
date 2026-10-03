@@ -1,0 +1,5 @@
+Dữ liệu vai trò giao diện, không thay đổi tài nguyên hoặc ID tạo mod.
+Vai trò gốc: https://lienquan.garena.vn/hoc-vien/tuong-skin/
+Vai trò phụ đối chiếu các bảng Đấu sĩ/Pháp sư/Trợ thủ/Đỡ đòn/Sát thủ: https://cellphones.com.vn/sforum/tuong-lien-quan
+Thane trợ thủ/đỡ đòn: https://www.thegioididong.com/game-app/cach-choi-thane-lien-quan-mua-23-cach-len-do-bang-1260843
+Chỉ bổ sung các tướng đã có trong source; không thêm tướng mới vào bộ tạo mod.

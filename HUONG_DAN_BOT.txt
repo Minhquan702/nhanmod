@@ -1,0 +1,55 @@
+TD MOD TELEGRAM — GARENA GALLERY V3
+
+1. CÀI ĐẶT RAILWAY
+- Dùng repository và service riêng cho bản bot này. Upload toàn bộ source trong ZIP, giữ đúng cấu trúc thư mục.
+- Start Command: python bot.py. Python 3.12; requirements.txt đã ghim phiên bản.
+- Tạo public domain HTTPS cho service BOT.
+- Variables bắt buộc:
+  BOT_TOKEN: token của bot lấy từ BotFather.
+  BOT_PUBLIC_URL: domain HTTPS của service BOT, không thêm /webapp/ vào cuối.
+  VUOTLINK_API: API nhiệm vụ.
+  BOT_ADMIN_PASSWORD: mặc định 177207 theo yêu cầu; đặt biến này nếu muốn đổi mật khẩu.
+  BOT_ADMIN_IDS: Telegram ID admin, nhiều người ngăn bằng dấu phẩy. Mặc định giữ ID admin từ source cũ: 8287067985.
+- BOT_PUBLIC_URL phải là domain bot mới, KHÔNG dùng domain web tạo mod hiện tại.
+- Bot tự đặt nút menu TD MOD. Mở bot trong chat riêng và bấm /start.
+- Chỉ chạy một service polling cho một BOT_TOKEN. Dừng service bot cũ khi thay bot mới để tránh lỗi Conflict. Web hiện tại không cần dừng hoặc sửa.
+
+2. LƯU DỮ LIỆU
+- Gắn volume RIÊNG cho service bot, ví dụ /data.
+- BOT_STORAGE_DIR=/data/BotJobs. Nếu có RAILWAY_VOLUME_MOUNT_PATH, source tự dùng thư mục BotJobs trong volume đó.
+- Không dùng chung volume/thư mục jobs với web.
+- Nếu không có volume, lịch sử, ZIP, thông báo và nhạc có thể mất khi redeploy.
+- File được giữ mặc định 24 giờ; BOT_FILE_TTL có thể đặt từ 3600 đến 604800 giây.
+- Nếu máy chủ restart giữa lúc tạo, lịch sử sẽ báo lỗi cho lượt đó để người dùng tạo lại.
+
+3. CHỨC NĂNG
+- Mini App Gallery V3: nền tím đen, viền vàng, lưới tướng 4 cột trên mobile; thanh Tướng/Skin, Đã chọn, Lịch sử, Cài đặt cố định dưới màn hình. Ảnh skin lớn 16:9 không kéo giãn; chọn skin cập nhật ảnh và tên. Giữ tìm không dấu, lọc chữ cái, phân trang.
+- Tối đa 15 skin; mỗi tướng 1 skin; thay skin hoặc bỏ chọn; xóa từng skin hoặc toàn bộ.
+- Android / iOS / Cả 2; sáng đậm; hộp xác nhận có/không nút bấm + thông báo hạ.
+- Bộ tạo file, bảng skin, tài nguyên, ảnh sảnh, nén tài nguyên, bộ fix reset và template cosmetic lấy từ source web đã cung cấp; mỗi lượt chạy subprocess trong thư mục riêng.
+- Lịch sử theo tài khoản Telegram; tiến độ, trạng thái lỗi, thời hạn file và tải lại sau khi mở khóa.
+- Tạo xong bot nhắn thông báo; làm nhiệm vụ trước khi tải; link tải riêng hoạt động khi mở trình duyệt ngoài Telegram.
+- Admin: domain-bot/admin, đăng nhập bằng BOT_ADMIN_PASSWORD. Thống kê người dùng, yêu cầu, thành công, lỗi, bắt đầu/hoàn thành nhiệm vụ, tải file, hàng chờ, bảng 7 ngày theo giờ Việt Nam.
+- Thông báo bật/tắt, tiêu đề, nội dung định dạng, màu chữ, link, ảnh/video URL hoặc upload 25 MB. Người dùng có Đã hiểu / Ẩn 1 giờ.
+- Admin upload MP3/WAV/OGG 25 MB, đổi tiêu đề và bật/tắt. Người dùng chủ động phát nhạc trong Cài đặt. Không tự phát khi vào ứng dụng.
+- Telegram không cho HTML trong Mini App phát âm thanh trước tương tác trên một số thiết bị. Âm thanh thao tác mặc định có sau tương tác, kèm rung nếu Telegram hỗ trợ; nút nhạc dùng trình phát thật.
+- Lệnh /start, /mod, /webapp, /choosehero, /run, /history, /settings mở ứng dụng; /help hướng dẫn; /admin thống kê nhanh (đúng ID admin).
+
+4. HAI BẢN ĐỘC LẬP
+Bot không gọi API web, không cần web online, không dùng dữ liệu/jobs/queue/password/nhạc/thông báo của web. Web gốc không bị chỉnh sửa. Hai service vẫn có thể cùng chịu ảnh hưởng nếu dùng chung tài khoản hosting bị hết tài nguyên hoặc cùng phụ thuộc dịch vụ nhiệm vụ.
+
+5. KIỂM THỬ
+Đã tạo ZIP thật với skin Krixi Kimono: Android (sáng đậm tắt, cosmetic tắt), iOS (sáng đậm bật, cosmetic bật), Cả 2 (cosmetic bật); kiểm CRC và cấu trúc ZIP. Đã tạo thêm gói 15 tướng cùng lúc (Cả 2, sáng đậm + cosmetic bật), danh sách đủ 15 skin và ZIP qua CRC. Kiểm xác thực Telegram, quyền sở hữu file, giới hạn skin, nhiệm vụ, tải từ trình duyệt ngoài, admin, lọc HTML, thời hạn và metadata. Giao diện đã kiểm thử Chromium ở khung mobile 320×740, 390×844, tablet 768×1024 và desktop 1024×900, không tràn ngang hoặc lỗi JS. Không thể kiểm tra thực tế trong game hoặc gửi bot thật trong môi trường Telegram/game thật; bài kiểm tra dùng token giả và dịch vụ nhiệm vụ giả, không thực hiện yêu cầu với thông tin tài khoản của bạn.
+
+6. NÂNG CẤP TỪ BOT CŨ
+Đây là source full mới. Backup source/service cũ trước khi thay. Các JSON key/VIP/user cũ không được dùng trong workflow web-equivalent mới; người dùng mở /start để sử dụng. Tính năng admin và dữ liệu của WEB không được chuyển sang bot; hãy thiết lập thông báo/nhạc trên bot riêng.
+
+7. GIAO DIỆN V3 VÀ ADMIN
+- /admin hoặc /admin/ trên domain của BOT; không yêu cầu mở trong Telegram.
+- Mật khẩu mặc định: 177207. BOT_ADMIN_PASSWORD nếu đã đặt trên Railway sẽ được ưu tiên, hãy đổi biến đó thành 177207 để dùng đúng mật khẩu yêu cầu.
+- Mục Ứng dụng: sửa tên, dòng phụ, hướng dẫn Cài đặt. Để hướng dẫn trống dùng hướng dẫn đầy đủ mặc định.
+- Mục Thông báo: tiêu đề, bật/tắt, văn bản có định dạng, màu chữ, link, ảnh/video, upload.
+- Mục Nhạc nền: upload, tên, bật/tắt. Mục Thống kê: tổng/hôm nay, bảng 7 ngày theo giờ Việt Nam, trạng thái hàng chờ.
+- Ảnh lấy từ trang Garena theo tên tướng và tên skin khớp với danh mục bot. Skin không tìm thấy dùng URL ảnh cũ. Lỗi tải ảnh Garena cũng tự chuyển sang ảnh cũ. Danh mục 123 tướng/1160 skin và ID tạo mod không thay đổi.
+- Ảnh là dữ liệu giao diện, không thay thế tài nguyên tạo mod. Ảnh đã tải được nén WebP và đóng kèm source; ảnh chưa tải được vẫn dùng URL Garena.
+- Làm mới ảnh khi cần: python tools/sync_garena_images.py (chạy trước khi khởi động bot hoặc restart sau khi xong). Không cần chạy lại để triển khai.

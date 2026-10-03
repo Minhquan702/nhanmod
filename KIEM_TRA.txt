@@ -1,0 +1,26 @@
+KIỂM TRA BẢN BOT TELEGRAM CYBER STUDIO V2
+PASS: 123 tướng / 1160 skin, catalog giữ nguyên bản web.
+PASS: Bộ engine, template cosmetic, bộ fix reset và dữ liệu Resources_1 lấy nguyên bản chạy web đã giải nén/kiểm checksum.
+PASS: ZIP thật Android — Krixi Kimono — sáng đậm tắt — nút/hạ tắt.
+PASS: ZIP thật iOS — Krixi Kimono — sáng đậm bật — nút/hạ bật.
+PASS: ZIP thật Cả 2 — Krixi Kimono — nút/hạ bật.
+PASS: ZIP thật gói 15 tướng — Cả 2 — sáng đậm/nút/hạ bật — danh sách đủ 15 skin.
+PASS: CRC ZIP và cấu trúc thiết bị cho các gói trên.
+PASS: chữ ký Telegram, phiên hết hạn, quyền sở hữu, giới hạn skin, kiểm catalog, một lượt đang xử lý mỗi tài khoản.
+PASS: nhiệm vụ chặn tải trước khi hoàn thành, receipt mở khóa, tải từ trình duyệt ngoài, file hết hạn.
+PASS: admin login, thống kê, lọc HTML thông báo, upload/phát tài nguyên ảnh, upload WAV, bật/tắt nhạc.
+PASS: khôi phục lượt hoàn tất và nhiệm vụ sau restart; lượt tạo dở chuyển sang lỗi để thử lại.
+PASS: giao diện Chromium ở 390×844 và 1024×900; chọn/bỏ skin, nền tảng, sáng đậm, thông báo/ẩn một giờ, tìm kiếm; không lỗi JavaScript hoặc tràn ngang trên màn hình thử.
+CHƯA KIỂM: Telegram thật, dịch vụ nhiệm vụ thật và cài file trong game. Test Telegram dùng chữ ký tạo bằng token giả; test nhiệm vụ dùng dịch vụ giả. Kiểm tra giao diện dùng ảnh dự phòng vì chặn tải ảnh ngoài trong môi trường thử.
+
+Có thể chạy từ thư mục source sau khi cài requirements:
+python tests/api.py
+python tests/restore.py
+python tests/generation.py
+python tests/multi.py
+Các script chỉ dùng token giả, không kết nối bot thật.
+
+CYBER V2: PASS màn hình 320px và tablet 768px, luồng hộp xác nhận gửi đúng lựa chọn cosmetic, giữ nguyên DOM ảnh khi chọn/bỏ skin nhiều lần, hỗ trợ giảm chuyển động, không lỗi JavaScript.
+Hiệu ứng transform/opacity; không canvas/particle; dừng animation và polling khi ứng dụng ẩn. Chưa benchmark FPS trên điện thoại Oppo thực tế.
+
+V3: Đã kiểm UI ở 320/390/768/1024px, thanh công cụ dưới, chọn skin giữ DOM thumbnail, payload xác nhận đúng, reduced-motion, admin lưu tên/hướng dẫn phản ánh trên app, không lỗi JS. Tạo lại ZIP thật Android/iOS/Cả hai qua CRC. Kiểm bảo vệ admin, mật khẩu mặc định, settings lưu bền, nhiệm vụ, mapping ảnh không thay ID.

@@ -1,0 +1,3505 @@
+{
+  "Toro": {
+    "order": [
+      "10501",
+      "10502",
+      "10503",
+      "10505",
+      "10504",
+      "10506",
+      "10507",
+      "10508"
+    ],
+    "labels": {
+      "10501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10502": "/assets/gallery/f968b69d4151d3a2.webp",
+      "10503": "/assets/gallery/17ad5df573489049.webp",
+      "10505": "/assets/gallery/17ad5df573489049.webp",
+      "10504": "/assets/gallery/cad4fe5e9b501766.webp",
+      "10506": "/assets/gallery/13d775f79543aa10.webp",
+      "10507": "/assets/gallery/1fddb18181a65796.webp",
+      "10508": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/toro-hero.webp",
+      "splash": "/assets/gallery/08c03f539310b46d.webp"
+    }
+  },
+  "Krixi": {
+    "order": [
+      "10601",
+      "10602",
+      "10603",
+      "10604",
+      "10605",
+      "10606",
+      "10607",
+      "10608",
+      "10609",
+      "10613",
+      "10617",
+      "10620",
+      "10621",
+      "10618"
+    ],
+    "labels": {
+      "10601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10602": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "10603": "/assets/gallery/8f6453e532d104e0.webp",
+      "10604": "/assets/gallery/f968b69d4151d3a2.webp",
+      "10605": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10606": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10607": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "10608": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10609": "/assets/gallery/17ad5df573489049.webp",
+      "10613": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10617": "/assets/gallery/e3482f231b73849d.webp",
+      "10620": "/assets/gallery/f6ab920c7395383a.webp",
+      "10621": "/assets/gallery/0ae79f2d49cad0c2.webp",
+      "10618": "/assets/gallery/8f6453e532d104e0.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/krixi-hero.webp",
+      "splash": "/assets/gallery/cf44f3c21bf6a949.webp"
+    }
+  },
+  "Zephys": {
+    "order": [
+      "10701",
+      "10703",
+      "10704",
+      "10705",
+      "10706",
+      "10707",
+      "10708",
+      "10709",
+      "10711",
+      "10712",
+      "10714",
+      "10715"
+    ],
+    "labels": {
+      "10701": "/assets/gallery/17ad5df573489049.webp",
+      "10703": "/assets/gallery/7f11f3920369c372.webp",
+      "10704": "/assets/gallery/0436324c4b2327f4.webp",
+      "10705": "/assets/gallery/fedd2b25635e9096.webp",
+      "10706": "/assets/gallery/17ad5df573489049.webp",
+      "10707": "/assets/gallery/17ad5df573489049.webp",
+      "10708": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10709": "/assets/gallery/26a27a972068aeff.webp",
+      "10711": "/assets/gallery/17ad5df573489049.webp",
+      "10712": "/assets/gallery/b9937e41627e6eb9.webp",
+      "10714": "/assets/gallery/fedd2b25635e9096.webp",
+      "10715": "/assets/gallery/0faedbfbea654e33.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/zephys-hero.webp",
+      "splash": "/assets/gallery/4d232fbeb5f8d4f7.webp"
+    }
+  },
+  "Gildur": {
+    "order": [
+      "10802",
+      "10801",
+      "10803",
+      "10804",
+      "10805",
+      "10806",
+      "10807",
+      "10809",
+      "10811",
+      "10812"
+    ],
+    "labels": {
+      "10802": "/assets/gallery/f968b69d4151d3a2.webp",
+      "10801": "/assets/gallery/8f6453e532d104e0.webp",
+      "10803": "/assets/gallery/17ad5df573489049.webp",
+      "10804": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10805": "/assets/gallery/17ad5df573489049.webp",
+      "10806": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10807": "/assets/gallery/13d775f79543aa10.webp",
+      "10809": "/assets/gallery/13d775f79543aa10.webp",
+      "10811": "/assets/gallery/bda8e5e5051b4a85.webp",
+      "10812": "/assets/gallery/56fb89d8d00522ef.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/gildur-hero.webp",
+      "splash": "/assets/gallery/76e50516565b3946.webp"
+    }
+  },
+  "Veera": {
+    "order": [
+      "10901",
+      "10903",
+      "10904",
+      "10905",
+      "10906",
+      "10907",
+      "10910",
+      "10912",
+      "10913",
+      "10914",
+      "10915",
+      "10902",
+      "10916",
+      "10917"
+    ],
+    "labels": {
+      "10901": "/assets/gallery/17ad5df573489049.webp",
+      "10903": "/assets/gallery/2b018afa089b4920.webp",
+      "10904": "/assets/gallery/f968b69d4151d3a2.webp",
+      "10905": "/assets/gallery/05a1c4709e7c220c.webp",
+      "10906": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10907": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10910": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10912": "/assets/gallery/8f6453e532d104e0.webp",
+      "10913": "/assets/gallery/f237a1eba687ecdd.webp",
+      "10914": "/assets/gallery/dc58fe73c2e00f3c.webp",
+      "10915": "/assets/gallery/484cbe28ffc4056c.webp",
+      "10902": "/assets/gallery/57671f22d8c69b7a.webp",
+      "10916": "/assets/gallery/dff18e52cf875e63.webp",
+      "10917": "/assets/gallery/56fb89d8d00522ef.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/veera-hero.webp",
+      "splash": "/assets/gallery/84138fdea03c4dd9.webp"
+    }
+  },
+  "Kahlii": {
+    "order": [
+      "11001",
+      "11004",
+      "11003",
+      "11005",
+      "11006",
+      "11007",
+      "11010",
+      "11009"
+    ],
+    "labels": {
+      "11001": "/assets/gallery/17ad5df573489049.webp",
+      "11004": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11003": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11005": "/assets/gallery/17ad5df573489049.webp",
+      "11006": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11007": "/assets/gallery/17ad5df573489049.webp",
+      "11010": "/assets/gallery/9ab879cb12e96694.webp",
+      "11009": "/assets/gallery/6780bc7201973b2f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/kahlii-hero.webp",
+      "splash": "/assets/gallery/ef8a88423bbf19e6.webp"
+    }
+  },
+  "Violet": {
+    "order": [
+      "11107",
+      "11102",
+      "11101",
+      "11104",
+      "11103",
+      "11105",
+      "11106",
+      "11110",
+      "11109",
+      "11114",
+      "11115",
+      "11116",
+      "11119",
+      "11120",
+      "11111",
+      "11112",
+      "11113",
+      "11117"
+    ],
+    "labels": {
+      "11107": "/assets/gallery/9b9a9b37320c420c.webp",
+      "11102": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11101": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "11104": "/assets/gallery/6e12adfe5a4a33cf.webp",
+      "11103": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11105": "/assets/gallery/fedd2b25635e9096.webp",
+      "11106": "/assets/gallery/17ad5df573489049.webp",
+      "11110": "/assets/gallery/fedd2b25635e9096.webp",
+      "11109": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11114": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11115": "/assets/gallery/8f6453e532d104e0.webp",
+      "11116": "/assets/gallery/13d775f79543aa10.webp",
+      "11119": "/assets/gallery/d2244380f75d8f6a.webp",
+      "11120": "/assets/gallery/e5cc3ca40936b141.webp",
+      "11111": "/assets/gallery/17ad5df573489049.webp",
+      "11112": "/assets/gallery/17ad5df573489049.webp",
+      "11113": "/assets/gallery/fedd2b25635e9096.webp",
+      "11117": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/violet-hero.webp",
+      "splash": "/assets/gallery/5210dc433bc037b3.webp"
+    }
+  },
+  "Yorn": {
+    "order": [
+      "11201",
+      "11203",
+      "11202",
+      "11205",
+      "11206",
+      "11207",
+      "11208",
+      "11212",
+      "11211",
+      "11209",
+      "11204",
+      "11214",
+      "11215",
+      "11216"
+    ],
+    "labels": {
+      "11201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11203": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11202": "/assets/gallery/8f6453e532d104e0.webp",
+      "11205": "/assets/gallery/8f6453e532d104e0.webp",
+      "11206": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11207": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11208": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11212": "/assets/gallery/8f6453e532d104e0.webp",
+      "11211": "/assets/gallery/17ad5df573489049.webp",
+      "11209": "/assets/gallery/17ad5df573489049.webp",
+      "11204": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11214": "/assets/gallery/e4b426628bcadece.webp",
+      "11215": "/assets/gallery/e38ba95450c77419.webp",
+      "11216": "/assets/gallery/bd456e6f11766a93.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/yorn-hero.webp",
+      "splash": "/assets/gallery/0b16bcbdd7985af6.webp"
+    }
+  },
+  "Chaugnar": {
+    "order": [
+      "11301",
+      "11303",
+      "11304",
+      "11307"
+    ],
+    "labels": {
+      "11301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11303": "/assets/gallery/d453a3c0d978e6ff.webp",
+      "11304": "/assets/gallery/17ad5df573489049.webp",
+      "11307": "/assets/gallery/fb980188b5a1674f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/chaugnar-hero.webp",
+      "splash": "/assets/gallery/b3f634cee662feb4.webp"
+    }
+  },
+  "Omega": {
+    "order": [
+      "11402",
+      "11403",
+      "11404",
+      "11405",
+      "11406",
+      "11407"
+    ],
+    "labels": {
+      "11402": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11403": "/assets/gallery/17ad5df573489049.webp",
+      "11404": "/assets/gallery/17ad5df573489049.webp",
+      "11405": "/assets/gallery/8ea2615fff8ba240.webp",
+      "11406": "/assets/gallery/17ad5df573489049.webp",
+      "11407": "/assets/gallery/a6004f28aff8ac10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/omega-hero.webp",
+      "splash": "/assets/gallery/ebd89055a9612b9d.webp"
+    }
+  },
+  "Jinna": {
+    "order": [
+      "11501",
+      "11502",
+      "11503",
+      "11506",
+      "11507",
+      "11508"
+    ],
+    "labels": {
+      "11501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11502": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11503": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11506": "/assets/gallery/595b8a07f8902879.webp",
+      "11507": "/assets/gallery/4efb063f60dc9860.webp",
+      "11508": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/jinna-hero.webp",
+      "splash": "/assets/gallery/b9aa035b5f88d50d.webp"
+    }
+  },
+  "Butterfly": {
+    "order": [
+      "11602",
+      "11601",
+      "11603",
+      "11604",
+      "11605",
+      "11606",
+      "11607",
+      "11608",
+      "11610",
+      "11611",
+      "11614",
+      "11613",
+      "11618",
+      "11619",
+      "11620",
+      "11621",
+      "11622"
+    ],
+    "labels": {
+      "11602": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11601": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "11603": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11604": "/assets/gallery/8f6453e532d104e0.webp",
+      "11605": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11606": "/assets/gallery/bb7a69d01f11dac3.webp",
+      "11607": "/assets/gallery/d2244380f75d8f6a.webp",
+      "11608": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11610": "/assets/gallery/fedd2b25635e9096.webp",
+      "11611": "/assets/gallery/9cc132771600012d.webp",
+      "11614": "/assets/gallery/8f6453e532d104e0.webp",
+      "11613": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11618": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11619": "/assets/gallery/962b2a2adfc186c9.webp",
+      "11620": "/assets/gallery/e413cd15ec4c9ea5.webp",
+      "11621": "/assets/gallery/daa52e889a7930ae.webp",
+      "11622": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/butterfly-hero.webp",
+      "splash": "/assets/gallery/38adba78340dff74.webp"
+    }
+  },
+  "Ormarr": {
+    "order": [
+      "11701",
+      "11703",
+      "11704",
+      "11706",
+      "11707",
+      "11708"
+    ],
+    "labels": {
+      "11701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11703": "/assets/gallery/bb7a69d01f11dac3.webp",
+      "11704": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11706": "/assets/gallery/17ad5df573489049.webp",
+      "11707": "/assets/gallery/0105ee9e737b886b.webp",
+      "11708": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ormarr-hero.webp",
+      "splash": "/assets/gallery/35c7ddc82acb1f95.webp"
+    }
+  },
+  "Alice": {
+    "order": [
+      "11801",
+      "11803",
+      "11804",
+      "11805",
+      "11806",
+      "11807",
+      "11802",
+      "11809",
+      "11812",
+      "11816",
+      "11817",
+      "11808",
+      "11818"
+    ],
+    "labels": {
+      "11801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11803": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11804": "/assets/gallery/17ad5df573489049.webp",
+      "11805": "/assets/gallery/17ad5df573489049.webp",
+      "11806": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11807": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11802": "/assets/gallery/33815d9771d11169.webp",
+      "11809": "/assets/gallery/d17bd246939e78ed.webp",
+      "11812": "/assets/gallery/e2f008fc4443990e.webp",
+      "11816": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11817": "/assets/gallery/b39860b7b7909147.webp",
+      "11808": "/assets/gallery/fedd2b25635e9096.webp",
+      "11818": "/assets/gallery/8c7180e82501ad25.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/alice-hero.webp",
+      "splash": "/assets/gallery/d6da0db9079b45e4.webp"
+    }
+  },
+  "Mganga": {
+    "order": [
+      "11901",
+      "11902",
+      "11903",
+      "11904",
+      "11905",
+      "11906",
+      "11907",
+      "11908"
+    ],
+    "labels": {
+      "11901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11902": "/assets/gallery/f968b69d4151d3a2.webp",
+      "11903": "/assets/gallery/57671f22d8c69b7a.webp",
+      "11904": "/assets/gallery/05a1c4709e7c220c.webp",
+      "11905": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "11906": "/assets/gallery/17ad5df573489049.webp",
+      "11907": "/assets/gallery/4efb063f60dc9860.webp",
+      "11908": "/assets/gallery/d2390741eba248d9.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/mganga-hero.webp",
+      "splash": "/assets/gallery/86e1af83acd8de46.webp"
+    }
+  },
+  "Mina": {
+    "order": [
+      "12001",
+      "12003",
+      "12004",
+      "12005",
+      "12002",
+      "12006",
+      "12007",
+      "12008",
+      "12011",
+      "12012",
+      "12013"
+    ],
+    "labels": {
+      "12001": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "12003": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12004": "/assets/gallery/79bc49d18d50b70c.webp",
+      "12005": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "12002": "/assets/gallery/1164263d123ac42c.webp",
+      "12006": "/assets/gallery/17ad5df573489049.webp",
+      "12007": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12008": "/assets/gallery/fedd2b25635e9096.webp",
+      "12011": "/assets/gallery/5701bc8007bb0181.webp",
+      "12012": "/assets/gallery/4c3bb372c5cab245.webp",
+      "12013": "/assets/gallery/8e298b8277879142.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/mina-hero.webp",
+      "splash": "/assets/gallery/5c4017103768743c.webp"
+    }
+  },
+  "Marja": {
+    "order": [
+      "12102",
+      "12103",
+      "12101",
+      "12104",
+      "12105",
+      "12106",
+      "12107",
+      "12108"
+    ],
+    "labels": {
+      "12102": "/assets/gallery/05a1c4709e7c220c.webp",
+      "12103": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12101": "/assets/gallery/17ad5df573489049.webp",
+      "12104": "/assets/gallery/17ad5df573489049.webp",
+      "12105": "/assets/gallery/17ad5df573489049.webp",
+      "12106": "/assets/gallery/13d775f79543aa10.webp",
+      "12107": "/assets/gallery/daa52e889a7930ae.webp",
+      "12108": "/assets/gallery/75859028f6de0e55.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/marja-hero.webp",
+      "splash": "/assets/gallery/825c82ac6b33c904.webp"
+    }
+  },
+  "Maloch": {
+    "order": [
+      "12302",
+      "12301",
+      "12303",
+      "12304",
+      "12305",
+      "12309",
+      "12308",
+      "12307",
+      "12306",
+      "12310",
+      "12312"
+    ],
+    "labels": {
+      "12302": "/assets/gallery/17ad5df573489049.webp",
+      "12301": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12303": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12304": "/assets/gallery/8f6453e532d104e0.webp",
+      "12305": "/assets/gallery/79bc49d18d50b70c.webp",
+      "12309": "/assets/gallery/13d775f79543aa10.webp",
+      "12308": "/assets/gallery/17ad5df573489049.webp",
+      "12307": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12306": "/assets/gallery/17ad5df573489049.webp",
+      "12310": "/assets/gallery/d1a17a045019194a.webp",
+      "12312": "/assets/gallery/6500d6d6fcfb29b6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/maloch-hero.webp",
+      "splash": "/assets/gallery/1ea2a6022e5806dd.webp"
+    }
+  },
+  "Ignis": {
+    "order": [
+      "12401",
+      "12402",
+      "12403",
+      "12404",
+      "12405",
+      "12406",
+      "12407"
+    ],
+    "labels": {
+      "12401": "/assets/gallery/05a1c4709e7c220c.webp",
+      "12402": "/assets/gallery/cc59f87742e6f418.webp",
+      "12403": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12404": "/assets/gallery/17ad5df573489049.webp",
+      "12405": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12406": "/assets/gallery/17ad5df573489049.webp",
+      "12407": "/assets/gallery/e35a46967acffe56.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ignis-hero.webp",
+      "splash": "/assets/gallery/9daede4c18862e69.webp"
+    }
+  },
+  "Arduin": {
+    "order": [
+      "12601",
+      "12603",
+      "12602",
+      "12606",
+      "12605",
+      "12604",
+      "12607",
+      "12608",
+      "12609",
+      "12610"
+    ],
+    "labels": {
+      "12601": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12603": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12602": "/assets/gallery/02e7e0c425725766.webp",
+      "12606": "/assets/gallery/fedd2b25635e9096.webp",
+      "12605": "/assets/gallery/17ad5df573489049.webp",
+      "12604": "/assets/gallery/17ad5df573489049.webp",
+      "12607": "/assets/gallery/17ad5df573489049.webp",
+      "12608": "/assets/gallery/fedd2b25635e9096.webp",
+      "12609": "/assets/gallery/17ad5df573489049.webp",
+      "12610": "/assets/gallery/97f2d932486c86e6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/arduin-hero.webp",
+      "splash": "/assets/gallery/7aec04fa2aad6283.webp"
+    }
+  },
+  "Azzen'Ka": {
+    "order": [
+      "12702",
+      "12703",
+      "12705",
+      "12704",
+      "12706",
+      "12708"
+    ],
+    "labels": {
+      "12702": "/assets/gallery/aba46e4a5fbea659.webp",
+      "12703": "/assets/gallery/62eb7ee116fc6c2f.webp",
+      "12705": "/assets/gallery/2f4c755b75651a55.webp",
+      "12704": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12706": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "12708": "/assets/gallery/3d0912f8cb7759a3.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/azzenka-hero.webp",
+      "splash": "/assets/gallery/c04f767323c5de3d.webp"
+    }
+  },
+  "Lữ Bố": {
+    "order": [
+      "12803",
+      "12804",
+      "12805",
+      "12801",
+      "12802",
+      "12806",
+      "12809",
+      "12808",
+      "12812",
+      "12807"
+    ],
+    "labels": {
+      "12803": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "12804": "/assets/gallery/05a1c4709e7c220c.webp",
+      "12805": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12801": "/assets/gallery/8f6453e532d104e0.webp",
+      "12802": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12806": "/assets/gallery/fedd2b25635e9096.webp",
+      "12809": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12808": "/assets/gallery/0430f023f9babd3a.webp",
+      "12812": "/assets/gallery/fedd2b25635e9096.webp",
+      "12807": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/lubo-hero.webp",
+      "splash": "/assets/gallery/6730d9bf5e4ca01b.webp"
+    }
+  },
+  "Triệu Vân": {
+    "order": [
+      "12902",
+      "12903",
+      "12905",
+      "12904",
+      "12906",
+      "12907",
+      "12908",
+      "12910",
+      "12912",
+      "12901",
+      "12913"
+    ],
+    "labels": {
+      "12902": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12903": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "12905": "/assets/gallery/db5b9248d84afd63.webp",
+      "12904": "/assets/gallery/e0556f628c8d5556.webp",
+      "12906": "/assets/gallery/f968b69d4151d3a2.webp",
+      "12907": "/assets/gallery/fedd2b25635e9096.webp",
+      "12908": "/assets/gallery/57671f22d8c69b7a.webp",
+      "12910": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "12912": "/assets/gallery/d2244380f75d8f6a.webp",
+      "12901": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "12913": "/assets/gallery/fedd2b25635e9096.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/trieuvan-hero.webp",
+      "splash": "/assets/gallery/bd64ba3271c98101.webp"
+    }
+  },
+  "Airi": {
+    "order": [
+      "13002",
+      "13001",
+      "13004",
+      "13005",
+      "13006",
+      "13007",
+      "13003",
+      "13008",
+      "13009",
+      "13010",
+      "13012",
+      "13011",
+      "13013",
+      "13015",
+      "13018",
+      "13017",
+      "13019"
+    ],
+    "labels": {
+      "13002": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13001": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13004": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13005": "/assets/gallery/8f6453e532d104e0.webp",
+      "13006": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "13007": "/assets/gallery/17ad5df573489049.webp",
+      "13003": "/assets/gallery/17ad5df573489049.webp",
+      "13008": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13009": "/assets/gallery/0a6eb810f7f03c3a.webp",
+      "13010": "/assets/gallery/f968b69d4151d3a2.webp",
+      "13012": "/assets/gallery/2fb86136853e5484.webp",
+      "13011": "/assets/gallery/d2244380f75d8f6a.webp",
+      "13013": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13015": "/assets/gallery/ac4f572d13a687bf.webp",
+      "13018": "/assets/gallery/e734d35c363c300d.webp",
+      "13017": "/assets/gallery/17ad5df573489049.webp",
+      "13019": "/assets/gallery/f5048b86a817e313.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/airi-hero.webp",
+      "splash": "/assets/gallery/1d0b4f0306e3dee6.webp"
+    }
+  },
+  "Murad": {
+    "order": [
+      "13101",
+      "13102",
+      "13105",
+      "13104",
+      "13103",
+      "13107",
+      "13108",
+      "13106",
+      "13109",
+      "13110",
+      "13111",
+      "13112",
+      "13113",
+      "13114",
+      "13115",
+      "13116",
+      "13117",
+      "13118",
+      "13119"
+    ],
+    "labels": {
+      "13101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13102": "/assets/gallery/f968b69d4151d3a2.webp",
+      "13105": "/assets/gallery/ae528ba016b97915.webp",
+      "13104": "/assets/gallery/fedd2b25635e9096.webp",
+      "13103": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13107": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13108": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "13106": "/assets/gallery/17ad5df573489049.webp",
+      "13109": "/assets/gallery/fedd2b25635e9096.webp",
+      "13110": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13111": "/assets/gallery/45a5907cd3e60fd5.webp",
+      "13112": "/assets/gallery/7cfacf3ee7f873a5.webp",
+      "13113": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13114": "/assets/gallery/eeeb18111b755c92.webp",
+      "13115": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13116": "/assets/gallery/d2244380f75d8f6a.webp",
+      "13117": "/assets/gallery/6778e352ba0f4160.webp",
+      "13118": "/assets/gallery/f6ab920c7395383a.webp",
+      "13119": "/assets/gallery/bd456e6f11766a93.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/murad-hero.webp",
+      "splash": "/assets/gallery/33a0c7b7b15a3bc2.webp"
+    }
+  },
+  "Hayate": {
+    "order": [
+      "13201",
+      "13202",
+      "13203",
+      "13205",
+      "13204",
+      "13211",
+      "13210",
+      "13209",
+      "13208",
+      "13207",
+      "13206",
+      "13212",
+      "13213",
+      "13214",
+      "13215"
+    ],
+    "labels": {
+      "13201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13202": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13203": "/assets/gallery/0a6eb810f7f03c3a.webp",
+      "13205": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13204": "/assets/gallery/fedd2b25635e9096.webp",
+      "13211": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13210": "/assets/gallery/d2244380f75d8f6a.webp",
+      "13209": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13208": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13207": "/assets/gallery/17ad5df573489049.webp",
+      "13206": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13212": "/assets/gallery/7f9f8d67ec83fab3.webp",
+      "13213": "/assets/gallery/9ee9b99ac543362d.webp",
+      "13214": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13215": "/assets/gallery/73653c8aa01220ff.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/hayate-hero.webp",
+      "splash": "/assets/gallery/0daec1b95f303eaa.webp"
+    }
+  },
+  "Valhein": {
+    "order": [
+      "13301",
+      "13302",
+      "13304",
+      "13306",
+      "13305",
+      "13307",
+      "13308",
+      "13313",
+      "13312",
+      "13311",
+      "13310",
+      "13309",
+      "13314",
+      "13316"
+    ],
+    "labels": {
+      "13301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13302": "/assets/gallery/8f6453e532d104e0.webp",
+      "13304": "/assets/gallery/f968b69d4151d3a2.webp",
+      "13306": "/assets/gallery/ae528ba016b97915.webp",
+      "13305": "/assets/gallery/08dc47993e5f3ad3.webp",
+      "13307": "/assets/gallery/2bc161541b84459f.webp",
+      "13308": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13313": "/assets/gallery/8f6453e532d104e0.webp",
+      "13312": "/assets/gallery/e5fab9b25e5e9a6d.webp",
+      "13311": "/assets/gallery/61f577861a9d7916.webp",
+      "13310": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13309": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13314": "/assets/gallery/da262780da6fc52b.webp",
+      "13316": "/assets/gallery/e6d4f37352b18d20.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/valhein-hero.webp",
+      "splash": "/assets/gallery/e9a2ad2b0f2c0a33.webp"
+    }
+  },
+  "Skud": {
+    "order": [
+      "13402",
+      "13403",
+      "13404",
+      "13405",
+      "13408",
+      "13410"
+    ],
+    "labels": {
+      "13402": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13403": "/assets/gallery/535e421c62f2d889.webp",
+      "13404": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "13405": "/assets/gallery/17ad5df573489049.webp",
+      "13408": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13410": "/assets/gallery/e5582aa170ee0c44.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/skud-hero.webp",
+      "splash": "/assets/gallery/151613a44bb6cf0d.webp"
+    }
+  },
+  "Thane": {
+    "order": [
+      "13503",
+      "13504",
+      "13501",
+      "13505",
+      "13506"
+    ],
+    "labels": {
+      "13503": "/assets/gallery/584a42bb8cc0385b.webp",
+      "13504": "/assets/gallery/f968b69d4151d3a2.webp",
+      "13501": "/assets/gallery/17ad5df573489049.webp",
+      "13505": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13506": "/assets/gallery/241d887dbc379272.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/thane-hero.webp",
+      "splash": "/assets/gallery/5dd1588565bed71e.webp"
+    }
+  },
+  "Ilumia": {
+    "order": [
+      "13601",
+      "13603",
+      "13604",
+      "13605",
+      "13608",
+      "13607",
+      "13609",
+      "13602",
+      "13606",
+      "13610",
+      "13612",
+      "13611",
+      "13613",
+      "13614"
+    ],
+    "labels": {
+      "13601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13603": "/assets/gallery/f968b69d4151d3a2.webp",
+      "13604": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13605": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13608": "/assets/gallery/76533231d99c250e.webp",
+      "13607": "/assets/gallery/17ad5df573489049.webp",
+      "13609": "/assets/gallery/fedd2b25635e9096.webp",
+      "13602": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13606": "/assets/gallery/17ad5df573489049.webp",
+      "13610": "/assets/gallery/2fa33659ce2c52ab.webp",
+      "13612": "/assets/gallery/0d803965c2486364.webp",
+      "13611": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13613": "/assets/gallery/f6ab920c7395383a.webp",
+      "13614": "/assets/gallery/e5582aa170ee0c44.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ilumia-hero.webp",
+      "splash": "/assets/gallery/4d31c780a7f26a7c.webp"
+    }
+  },
+  "Paine": {
+    "order": [
+      "13701",
+      "13702",
+      "13703",
+      "13704",
+      "13705",
+      "13706",
+      "13707"
+    ],
+    "labels": {
+      "13701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13702": "/assets/gallery/17ad5df573489049.webp",
+      "13703": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13704": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "13705": "/assets/gallery/8f6453e532d104e0.webp",
+      "13706": "/assets/gallery/8f3328df962d36d4.webp",
+      "13707": "/assets/gallery/8f6453e532d104e0.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/paine-hero.webp",
+      "splash": "/assets/gallery/bac6ab72d44930b6.webp"
+    }
+  },
+  "Kil'Groth": {
+    "order": [
+      "13902",
+      "13901",
+      "13903",
+      "13904",
+      "13905"
+    ],
+    "labels": {
+      "13902": "/assets/gallery/97b2e13aadf74865.webp",
+      "13901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "13903": "/assets/gallery/57671f22d8c69b7a.webp",
+      "13904": "/assets/gallery/1c2939b94f1b7fc2.webp",
+      "13905": "/assets/gallery/e5582aa170ee0c44.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/kilgroth-hero.webp",
+      "splash": "/assets/gallery/6df9209c4813952f.webp"
+    }
+  },
+  "Superman": {
+    "order": [
+      "14001",
+      "14002"
+    ],
+    "labels": {
+      "14001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14002": "/assets/gallery/f968b69d4151d3a2.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/superman-hero.webp",
+      "splash": "/assets/gallery/8d88f5d7b817ad0f.webp"
+    }
+  },
+  "Lauriel": {
+    "order": [
+      "14101",
+      "14103",
+      "14102",
+      "14104",
+      "14106",
+      "14105",
+      "14107",
+      "14108",
+      "14109",
+      "14117",
+      "14114",
+      "14115",
+      "14110",
+      "14111",
+      "14118",
+      "14120"
+    ],
+    "labels": {
+      "14101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14103": "/assets/gallery/79bc49d18d50b70c.webp",
+      "14102": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14104": "/assets/gallery/8f6453e532d104e0.webp",
+      "14106": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14105": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14107": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "14108": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14109": "/assets/gallery/fedd2b25635e9096.webp",
+      "14117": "/assets/gallery/8f6453e532d104e0.webp",
+      "14114": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "14115": "/assets/gallery/57671f22d8c69b7a.webp",
+      "14110": "/assets/gallery/8f6453e532d104e0.webp",
+      "14111": "/assets/gallery/397c1e233e051b3a.webp",
+      "14118": "/assets/gallery/5b1704b74e44081c.webp",
+      "14120": "/assets/gallery/e6d4f37352b18d20.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/lauriel-hero.webp",
+      "splash": "/assets/gallery/9a4a48e732388382.webp"
+    }
+  },
+  "Natalya": {
+    "order": [
+      "14202",
+      "14203",
+      "14205",
+      "14204",
+      "14208",
+      "14210",
+      "14201",
+      "14207",
+      "14209",
+      "14213",
+      "14206",
+      "14214",
+      "14215",
+      "14212"
+    ],
+    "labels": {
+      "14202": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "14203": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14205": "/assets/gallery/bb7a69d01f11dac3.webp",
+      "14204": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14208": "/assets/gallery/d17bd246939e78ed.webp",
+      "14210": "/assets/gallery/71c9e834127660cb.webp",
+      "14201": "/assets/gallery/d17bd246939e78ed.webp",
+      "14207": "/assets/gallery/57671f22d8c69b7a.webp",
+      "14209": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14213": "/assets/gallery/fedd2b25635e9096.webp",
+      "14206": "/assets/gallery/fedd2b25635e9096.webp",
+      "14214": "/assets/gallery/505f41b098aed57a.webp",
+      "14215": "/assets/gallery/da855749301ef521.webp",
+      "14212": "/assets/gallery/57671f22d8c69b7a.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/natalya-hero.webp",
+      "splash": "/assets/gallery/6d17ba7840a1f78e.webp"
+    }
+  },
+  "Taara": {
+    "order": [
+      "14401",
+      "14403",
+      "14404",
+      "14405",
+      "14406",
+      "14402",
+      "14411",
+      "14412",
+      "14413"
+    ],
+    "labels": {
+      "14401": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14403": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14404": "/assets/gallery/fedd2b25635e9096.webp",
+      "14405": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14406": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14402": "/assets/gallery/57671f22d8c69b7a.webp",
+      "14411": "/assets/gallery/17ad5df573489049.webp",
+      "14412": "/assets/gallery/801b3d8b96064f13.webp",
+      "14413": "/assets/gallery/75859028f6de0e55.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/taara-hero.webp",
+      "splash": "/assets/gallery/8f8ad0e8d667ae1c.webp"
+    }
+  },
+  "Zill": {
+    "order": [
+      "14601",
+      "14602",
+      "14603",
+      "14604",
+      "14610",
+      "14606",
+      "14605",
+      "14611",
+      "14612"
+    ],
+    "labels": {
+      "14601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14602": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14603": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14604": "/assets/gallery/57671f22d8c69b7a.webp",
+      "14610": "/assets/gallery/17ad5df573489049.webp",
+      "14606": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "14605": "/assets/gallery/17ad5df573489049.webp",
+      "14611": "/assets/gallery/17ad5df573489049.webp",
+      "14612": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/zill-hero.webp",
+      "splash": "/assets/gallery/9432db9853bda44e.webp"
+    }
+  },
+  "Preyta": {
+    "order": [
+      "14801",
+      "14802",
+      "14803",
+      "14804",
+      "14805"
+    ],
+    "labels": {
+      "14801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14802": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "14803": "/assets/gallery/d7b56b0cd84d0c67.webp",
+      "14804": "/assets/gallery/17ad5df573489049.webp",
+      "14805": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/preyta-hero.webp",
+      "splash": "/assets/gallery/1c2b15af2ce6b26a.webp"
+    }
+  },
+  "Xeniel": {
+    "order": [
+      "14901",
+      "14902",
+      "14903",
+      "14905",
+      "14909",
+      "14906",
+      "14904",
+      "14908",
+      "14910",
+      "14911"
+    ],
+    "labels": {
+      "14901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "14902": "/assets/gallery/ae528ba016b97915.webp",
+      "14903": "/assets/gallery/17ad5df573489049.webp",
+      "14905": "/assets/gallery/f968b69d4151d3a2.webp",
+      "14909": "/assets/gallery/17ad5df573489049.webp",
+      "14906": "/assets/gallery/17ad5df573489049.webp",
+      "14904": "/assets/gallery/13d775f79543aa10.webp",
+      "14908": "/assets/gallery/17ad5df573489049.webp",
+      "14910": "/assets/gallery/ad9ec7d852f234b4.webp",
+      "14911": "/assets/gallery/e5a0650b92a94096.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/xeniel-hero.webp",
+      "splash": "/assets/gallery/c3f24a874e7f98dd.webp"
+    }
+  },
+  "Nakroth": {
+    "order": [
+      "15002",
+      "15003",
+      "15001",
+      "15004",
+      "15005",
+      "15006",
+      "15008",
+      "15012",
+      "15007",
+      "15009",
+      "15015",
+      "15014",
+      "15013",
+      "15016"
+    ],
+    "labels": {
+      "15002": "/assets/gallery/17ad5df573489049.webp",
+      "15003": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15001": "/assets/gallery/f968b69d4151d3a2.webp",
+      "15004": "/assets/gallery/6e681bd84e28ffff.webp",
+      "15005": "/assets/gallery/3cc81eb0accdc8c1.webp",
+      "15006": "/assets/gallery/f72f307005ddaaf1.webp",
+      "15008": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15012": "/assets/gallery/33c3407c19da5f15.webp",
+      "15007": "/assets/gallery/fedd2b25635e9096.webp",
+      "15009": "/assets/gallery/6493f1f0b9bc3df5.webp",
+      "15015": "/assets/gallery/f6ab920c7395383a.webp",
+      "15014": "/assets/gallery/49918db4ccb03fa3.webp",
+      "15013": "/assets/gallery/d2244380f75d8f6a.webp",
+      "15016": "/assets/gallery/037adf3cd65a5f71.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/nakroth-hero.webp",
+      "splash": "/assets/gallery/4c91282c84c23a50.webp"
+    }
+  },
+  "Điêu Thuyền": {
+    "order": [
+      "15201",
+      "15205",
+      "15202",
+      "15207",
+      "15206",
+      "15208",
+      "15209",
+      "15211",
+      "15210",
+      "15203",
+      "15204",
+      "15212",
+      "15213",
+      "15216",
+      "15217"
+    ],
+    "labels": {
+      "15201": "/assets/gallery/17ad5df573489049.webp",
+      "15205": "/assets/gallery/f968b69d4151d3a2.webp",
+      "15202": "/assets/gallery/8f6453e532d104e0.webp",
+      "15207": "/assets/gallery/17ad5df573489049.webp",
+      "15206": "/assets/gallery/79bc49d18d50b70c.webp",
+      "15208": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15209": "/assets/gallery/882d2f5708f166a6.webp",
+      "15211": "/assets/gallery/122c280ea5ee177a.webp",
+      "15210": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15203": "/assets/gallery/17ad5df573489049.webp",
+      "15204": "/assets/gallery/7232b9a1493c80f4.webp",
+      "15212": "/assets/gallery/0dfcb6ea5518f936.webp",
+      "15213": "/assets/gallery/17ad5df573489049.webp",
+      "15216": "/assets/gallery/8f6453e532d104e0.webp",
+      "15217": "/assets/gallery/73653c8aa01220ff.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/dieuthuyen-hero.webp",
+      "splash": "/assets/gallery/b60576e01b866e42.webp"
+    }
+  },
+  "Kaine": {
+    "order": [
+      "15301",
+      "15302",
+      "15303",
+      "15304",
+      "15305",
+      "15306"
+    ],
+    "labels": {
+      "15301": "/assets/gallery/17ad5df573489049.webp",
+      "15302": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "15303": "/assets/gallery/17ad5df573489049.webp",
+      "15304": "/assets/gallery/2cf7335099dbd621.webp",
+      "15305": "/assets/gallery/f968b69d4151d3a2.webp",
+      "15306": "/assets/gallery/feb38e9584bd42d1.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/kaine-hero.webp",
+      "splash": "/assets/gallery/6d82444d10382d0c.webp"
+    }
+  },
+  "Yena": {
+    "order": [
+      "15401",
+      "15402",
+      "15403",
+      "15404",
+      "15406",
+      "15407",
+      "15412",
+      "15410",
+      "15409",
+      "15408",
+      "15405",
+      "15413",
+      "15414",
+      "15415"
+    ],
+    "labels": {
+      "15401": "/assets/gallery/05a1c4709e7c220c.webp",
+      "15402": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15403": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15404": "/assets/gallery/17ad5df573489049.webp",
+      "15406": "/assets/gallery/d51df25e811e8eb7.webp",
+      "15407": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15412": "/assets/gallery/d2244380f75d8f6a.webp",
+      "15410": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15409": "/assets/gallery/08748294f3eec505.webp",
+      "15408": "/assets/gallery/17ad5df573489049.webp",
+      "15405": "/assets/gallery/17ad5df573489049.webp",
+      "15413": "/assets/gallery/cdb2501d9bfe3fe1.webp",
+      "15414": "/assets/gallery/2cc880a786aad876.webp",
+      "15415": "/assets/gallery/8c7180e82501ad25.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/yena-hero.webp",
+      "splash": "/assets/gallery/48dcce7985b62b57.webp"
+    }
+  },
+  "Aleister": {
+    "order": [
+      "15601",
+      "15602",
+      "15603",
+      "15604",
+      "15610",
+      "15608",
+      "15607",
+      "15605",
+      "15611",
+      "15612",
+      "15606",
+      "15614"
+    ],
+    "labels": {
+      "15601": "/assets/gallery/17ad5df573489049.webp",
+      "15602": "/assets/gallery/8448e40c19ad9ae2.webp",
+      "15603": "/assets/gallery/f968b69d4151d3a2.webp",
+      "15604": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15610": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "15608": "/assets/gallery/17ad5df573489049.webp",
+      "15607": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15605": "/assets/gallery/17ad5df573489049.webp",
+      "15611": "/assets/gallery/8f6453e532d104e0.webp",
+      "15612": "/assets/gallery/f557420e79b3f1f0.webp",
+      "15606": "/assets/gallery/17ad5df573489049.webp",
+      "15614": "/assets/gallery/b09dbff40215c98d.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/aleister-hero.webp",
+      "splash": "/assets/gallery/10431a3eb1ec3f8b.webp"
+    }
+  },
+  "Raz": {
+    "order": [
+      "15702",
+      "15703",
+      "15704",
+      "15705",
+      "15711",
+      "15710",
+      "15709",
+      "15708",
+      "15707",
+      "15706",
+      "15712",
+      "15714"
+    ],
+    "labels": {
+      "15702": "/assets/gallery/05a1c4709e7c220c.webp",
+      "15703": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15704": "/assets/gallery/8f6453e532d104e0.webp",
+      "15705": "/assets/gallery/8f6453e532d104e0.webp",
+      "15711": "/assets/gallery/b505a62297d4ca73.webp",
+      "15710": "/assets/gallery/d2244380f75d8f6a.webp",
+      "15709": "/assets/gallery/17ad5df573489049.webp",
+      "15708": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15707": "/assets/gallery/b5f019bc2bddcbcc.webp",
+      "15706": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15712": "/assets/gallery/543d7cab2dbefbc6.webp",
+      "15714": "/assets/gallery/58905e109f6ef96f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/raz-hero.webp",
+      "splash": "/assets/gallery/f9ad23da58ca7b50.webp"
+    }
+  },
+  "Dolia": {
+    "order": [
+      "15901",
+      "15902",
+      "15905",
+      "15903"
+    ],
+    "labels": {
+      "15901": "/assets/gallery/57671f22d8c69b7a.webp",
+      "15902": "/assets/gallery/17ad5df573489049.webp",
+      "15905": "/assets/gallery/e6d4f37352b18d20.webp",
+      "15903": "/assets/gallery/8f6453e532d104e0.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/dolia-hero.webp",
+      "splash": "/assets/gallery/18a71ef2fec92999.webp"
+    }
+  },
+  "Kriknak": {
+    "order": [
+      "16201",
+      "16202",
+      "16203",
+      "16204",
+      "16205",
+      "16206"
+    ],
+    "labels": {
+      "16201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16202": "/assets/gallery/f968b69d4151d3a2.webp",
+      "16203": "/assets/gallery/cc1c6079b1190f97.webp",
+      "16204": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16205": "/assets/gallery/57671f22d8c69b7a.webp",
+      "16206": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/kriknak-hero.webp",
+      "splash": "/assets/gallery/a750582fac3c3c71.webp"
+    }
+  },
+  "Ryoma": {
+    "order": [
+      "16301",
+      "16302",
+      "16303",
+      "16304",
+      "16305",
+      "16306",
+      "16307",
+      "16309",
+      "16308",
+      "16310",
+      "16311",
+      "16313"
+    ],
+    "labels": {
+      "16301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16302": "/assets/gallery/f968b69d4151d3a2.webp",
+      "16303": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "16304": "/assets/gallery/fedd2b25635e9096.webp",
+      "16305": "/assets/gallery/17ad5df573489049.webp",
+      "16306": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "16307": "/assets/gallery/da4648dd5b166e0d.webp",
+      "16309": "/assets/gallery/c52e309e69044ceb.webp",
+      "16308": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "16310": "/assets/gallery/d6a12af6823d5539.webp",
+      "16311": "/assets/gallery/72b01ec03ace137b.webp",
+      "16313": "/assets/gallery/aa8348600ccfd4d3.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ryoma-hero.webp",
+      "splash": "/assets/gallery/4def3065b0e179f2.webp"
+    }
+  },
+  "Arthur": {
+    "order": [
+      "16602",
+      "16601",
+      "16603",
+      "16604",
+      "16605",
+      "16606",
+      "16607",
+      "16611",
+      "16609",
+      "16612"
+    ],
+    "labels": {
+      "16602": "/assets/gallery/17ad5df573489049.webp",
+      "16601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16603": "/assets/gallery/dbb7b21684eefe1b.webp",
+      "16604": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16605": "/assets/gallery/57671f22d8c69b7a.webp",
+      "16606": "/assets/gallery/57671f22d8c69b7a.webp",
+      "16607": "/assets/gallery/fedd2b25635e9096.webp",
+      "16611": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "16609": "/assets/gallery/094f1b487188fb48.webp",
+      "16612": "/assets/gallery/d67774f0ad90acc6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/arthur-hero.webp",
+      "splash": "/assets/gallery/b8a5403b8af9f855.webp"
+    }
+  },
+  "Ngộ Không": {
+    "order": [
+      "16701",
+      "16702",
+      "16703",
+      "16704",
+      "16705",
+      "16706",
+      "16711",
+      "16710",
+      "16709",
+      "16708",
+      "16712"
+    ],
+    "labels": {
+      "16701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16702": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "16703": "/assets/gallery/8f6453e532d104e0.webp",
+      "16704": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "16705": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "16706": "/assets/gallery/57671f22d8c69b7a.webp",
+      "16711": "/assets/gallery/8f6453e532d104e0.webp",
+      "16710": "/assets/gallery/8f6453e532d104e0.webp",
+      "16709": "/assets/gallery/17ad5df573489049.webp",
+      "16708": "/assets/gallery/57671f22d8c69b7a.webp",
+      "16712": "/assets/gallery/fedd2b25635e9096.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ngokhong-hero.webp",
+      "splash": "/assets/gallery/e70f9bcf50437acb.webp"
+    }
+  },
+  "Lumburr": {
+    "order": [
+      "16802",
+      "16803",
+      "16805",
+      "16804",
+      "16806",
+      "16807"
+    ],
+    "labels": {
+      "16802": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16803": "/assets/gallery/f968b69d4151d3a2.webp",
+      "16805": "/assets/gallery/17ad5df573489049.webp",
+      "16804": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16806": "/assets/gallery/17ad5df573489049.webp",
+      "16807": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/lumburr-hero.webp",
+      "splash": "/assets/gallery/72b4005af8d85955.webp"
+    }
+  },
+  "Slimz": {
+    "order": [
+      "16903",
+      "16901",
+      "16902",
+      "16904",
+      "16906",
+      "16907",
+      "16909",
+      "16910",
+      "16911",
+      "16912",
+      "16913"
+    ],
+    "labels": {
+      "16903": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "16902": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "16904": "/assets/gallery/17ad5df573489049.webp",
+      "16906": "/assets/gallery/17ad5df573489049.webp",
+      "16907": "/assets/gallery/17ad5df573489049.webp",
+      "16909": "/assets/gallery/89a3508bea0020a9.webp",
+      "16910": "/assets/gallery/224b8d69a6ab222b.webp",
+      "16911": "/assets/gallery/8c7180e82501ad25.webp",
+      "16912": "/assets/gallery/17ad5df573489049.webp",
+      "16913": "/assets/gallery/8a004f83d8f6eac9.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/slimz-hero.webp",
+      "splash": "/assets/gallery/806506eada628a1d.webp"
+    }
+  },
+  "Moren": {
+    "order": [
+      "17001",
+      "17002",
+      "17003",
+      "17005"
+    ],
+    "labels": {
+      "17001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "17002": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "17003": "/assets/gallery/17ad5df573489049.webp",
+      "17005": "/assets/gallery/584f42e9adddf120.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/moren-hero.webp",
+      "splash": "/assets/gallery/5b6404f7c1fd2528.webp"
+    }
+  },
+  "Cresht": {
+    "order": [
+      "17101",
+      "17102",
+      "17103",
+      "17107",
+      "17106",
+      "17108"
+    ],
+    "labels": {
+      "17101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "17102": "/assets/gallery/f968b69d4151d3a2.webp",
+      "17103": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "17107": "/assets/gallery/fa3e555e63996015.webp",
+      "17106": "/assets/gallery/8f6453e532d104e0.webp",
+      "17108": "/assets/gallery/037adf3cd65a5f71.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/cresht-hero.webp",
+      "splash": "/assets/gallery/9d633b107f7ee4df.webp"
+    }
+  },
+  "Fennik": {
+    "order": [
+      "17301",
+      "17303",
+      "17304",
+      "17306",
+      "17305",
+      "17308",
+      "17307",
+      "17302",
+      "17309",
+      "17310",
+      "17311"
+    ],
+    "labels": {
+      "17301": "/assets/gallery/17ad5df573489049.webp",
+      "17303": "/assets/gallery/f968b69d4151d3a2.webp",
+      "17304": "/assets/gallery/bb7a69d01f11dac3.webp",
+      "17306": "/assets/gallery/17ad5df573489049.webp",
+      "17305": "/assets/gallery/57671f22d8c69b7a.webp",
+      "17308": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "17307": "/assets/gallery/c1179f38e49e9af4.webp",
+      "17302": "/assets/gallery/17ad5df573489049.webp",
+      "17309": "/assets/gallery/8f6453e532d104e0.webp",
+      "17310": "/assets/gallery/2b402d589994fe80.webp",
+      "17311": "/assets/gallery/3d0912f8cb7759a3.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/fennik-hero.webp",
+      "splash": "/assets/gallery/907c14fa5d089842.webp"
+    }
+  },
+  "Stuart": {
+    "order": [
+      "17401",
+      "17402",
+      "17403",
+      "17405",
+      "17404",
+      "17407",
+      "17408"
+    ],
+    "labels": {
+      "17401": "/assets/gallery/17ad5df573489049.webp",
+      "17402": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "17403": "/assets/gallery/17ad5df573489049.webp",
+      "17405": "/assets/gallery/7704281e9ed3a2d7.webp",
+      "17404": "/assets/gallery/f968b69d4151d3a2.webp",
+      "17407": "/assets/gallery/13d775f79543aa10.webp",
+      "17408": "/assets/gallery/7a2241eda0d05e7c.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/stuart-hero.webp",
+      "splash": "/assets/gallery/674d33fe926fc097.webp"
+    }
+  },
+  "Grakk": {
+    "order": [
+      "17503",
+      "17502",
+      "17501",
+      "17505",
+      "17506",
+      "17507",
+      "17512",
+      "17508",
+      "17504",
+      "17517",
+      "17518",
+      "17519"
+    ],
+    "labels": {
+      "17503": "/assets/gallery/bb7a69d01f11dac3.webp",
+      "17502": "/assets/gallery/05a1c4709e7c220c.webp",
+      "17501": "/assets/gallery/f968b69d4151d3a2.webp",
+      "17505": "/assets/gallery/57671f22d8c69b7a.webp",
+      "17506": "/assets/gallery/05a1c4709e7c220c.webp",
+      "17507": "/assets/gallery/57671f22d8c69b7a.webp",
+      "17512": "/assets/gallery/57671f22d8c69b7a.webp",
+      "17508": "/assets/gallery/17ad5df573489049.webp",
+      "17504": "/assets/gallery/13d775f79543aa10.webp",
+      "17517": "/assets/gallery/85e15a918c838663.webp",
+      "17518": "/assets/gallery/c89cfdf58f84eb57.webp",
+      "17519": "/assets/gallery/a24e958d5db142d2.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/grakk-hero.webp",
+      "splash": "/assets/gallery/519b52a0df9dbd8d.webp"
+    }
+  },
+  "Lindis": {
+    "order": [
+      "17701",
+      "17702",
+      "17704",
+      "17703",
+      "17705",
+      "17708",
+      "17706"
+    ],
+    "labels": {
+      "17701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "17702": "/assets/gallery/d17bd246939e78ed.webp",
+      "17704": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "17703": "/assets/gallery/4cea94cc5f681811.webp",
+      "17705": "/assets/gallery/17ad5df573489049.webp",
+      "17708": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "17706": "/assets/gallery/48997507d2a5063b.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/lindis-hero.webp",
+      "splash": "/assets/gallery/c319c0afc905a4cc.webp"
+    }
+  },
+  "Max": {
+    "order": [
+      "18001",
+      "18002",
+      "18003",
+      "18004",
+      "18006",
+      "18007",
+      "18005",
+      "18008",
+      "18009"
+    ],
+    "labels": {
+      "18001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "18002": "/assets/gallery/ae528ba016b97915.webp",
+      "18003": "/assets/gallery/cbd93eca61d21430.webp",
+      "18004": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "18006": "/assets/gallery/17ad5df573489049.webp",
+      "18007": "/assets/gallery/17ad5df573489049.webp",
+      "18005": "/assets/gallery/17ad5df573489049.webp",
+      "18008": "/assets/gallery/c7e80d3f955dc24f.webp",
+      "18009": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/max-hero.webp",
+      "splash": "/assets/gallery/ce63b97a81aa242e.webp"
+    }
+  },
+  "Helen": {
+    "order": [
+      "18403",
+      "18405",
+      "18404",
+      "18408",
+      "18407",
+      "18409",
+      "18406"
+    ],
+    "labels": {
+      "18403": "/assets/gallery/05a1c4709e7c220c.webp",
+      "18405": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "18404": "/assets/gallery/1574efa897cc3d19.webp",
+      "18408": "/assets/gallery/8f6453e532d104e0.webp",
+      "18407": "/assets/gallery/28bbf625f43fef20.webp",
+      "18409": "/assets/gallery/9090dc10b39f5251.webp",
+      "18406": "/assets/gallery/57671f22d8c69b7a.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/helen-hero.webp",
+      "splash": "/assets/gallery/f8a57983143c25b2.webp"
+    }
+  },
+  "TeeMee": {
+    "order": [
+      "18601",
+      "18603",
+      "18606",
+      "18604",
+      "18605",
+      "18609",
+      "18610",
+      "18611"
+    ],
+    "labels": {
+      "18601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "18603": "/assets/gallery/c9dc3f054af4a3d6.webp",
+      "18606": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "18604": "/assets/gallery/17ad5df573489049.webp",
+      "18605": "/assets/gallery/17ad5df573489049.webp",
+      "18609": "/assets/gallery/f0366ae42b586838.webp",
+      "18610": "/assets/gallery/17ad5df573489049.webp",
+      "18611": "/assets/gallery/58905e109f6ef96f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/teemee-hero.webp",
+      "splash": "/assets/gallery/61435279e9ce8bf9.webp"
+    }
+  },
+  "Arum": {
+    "order": [
+      "18701",
+      "18702",
+      "18703",
+      "18704",
+      "18705",
+      "18709",
+      "18708",
+      "18706",
+      "18713",
+      "18712",
+      "18714",
+      "18715"
+    ],
+    "labels": {
+      "18701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "18702": "/assets/gallery/fedd2b25635e9096.webp",
+      "18703": "/assets/gallery/f968b69d4151d3a2.webp",
+      "18704": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "18705": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "18709": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "18708": "/assets/gallery/de0ab6b02a97e2c0.webp",
+      "18706": "/assets/gallery/17ad5df573489049.webp",
+      "18713": "/assets/gallery/c962bc160da6e361.webp",
+      "18712": "/assets/gallery/f2ac20056d00ff1e.webp",
+      "18714": "/assets/gallery/13d775f79543aa10.webp",
+      "18715": "/assets/gallery/543d7cab2dbefbc6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/arum-hero.webp",
+      "splash": "/assets/gallery/f63f8ab82f559b02.webp"
+    }
+  },
+  "Krizzix": {
+    "order": [
+      "18901",
+      "18902",
+      "18903",
+      "18905",
+      "18906",
+      "18907",
+      "18908"
+    ],
+    "labels": {
+      "18901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "18902": "/assets/gallery/17ad5df573489049.webp",
+      "18903": "/assets/gallery/17ad5df573489049.webp",
+      "18905": "/assets/gallery/fdef83650166f478.webp",
+      "18906": "/assets/gallery/9d1752e86f62b879.webp",
+      "18907": "/assets/gallery/17ad5df573489049.webp",
+      "18908": "/assets/gallery/75859028f6de0e55.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/krizzix-hero.webp",
+      "splash": "/assets/gallery/b9cb11217e24278c.webp"
+    }
+  },
+  "Tulen": {
+    "order": [
+      "19001",
+      "19002",
+      "19003",
+      "19004",
+      "19005",
+      "19006",
+      "19007",
+      "19008",
+      "19009",
+      "19010",
+      "19013",
+      "19012",
+      "19011",
+      "19015",
+      "19014",
+      "19016"
+    ],
+    "labels": {
+      "19001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19002": "/assets/gallery/8f6453e532d104e0.webp",
+      "19003": "/assets/gallery/ae528ba016b97915.webp",
+      "19004": "/assets/gallery/d7a49fd79bfbd2f8.webp",
+      "19005": "/assets/gallery/17ad5df573489049.webp",
+      "19006": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "19007": "/assets/gallery/d2244380f75d8f6a.webp",
+      "19008": "/assets/gallery/17ad5df573489049.webp",
+      "19009": "/assets/gallery/d2244380f75d8f6a.webp",
+      "19010": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19013": "/assets/gallery/8f6453e532d104e0.webp",
+      "19012": "/assets/gallery/8f6453e532d104e0.webp",
+      "19011": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19015": "/assets/gallery/e0e4bde4b650eb5d.webp",
+      "19014": "/assets/gallery/b7f9da636b181805.webp",
+      "19016": "/assets/gallery/f6ab920c7395383a.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/tulen-hero.webp",
+      "splash": "/assets/gallery/cd29151dba73f903.webp"
+    }
+  },
+  "Rouie": {
+    "order": [
+      "19101",
+      "19106",
+      "19105",
+      "19104",
+      "19103",
+      "19102",
+      "19108",
+      "19110",
+      "19109"
+    ],
+    "labels": {
+      "19101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19106": "/assets/gallery/fe1442c905f479e2.webp",
+      "19105": "/assets/gallery/17ad5df573489049.webp",
+      "19104": "/assets/gallery/17ad5df573489049.webp",
+      "19103": "/assets/gallery/17ad5df573489049.webp",
+      "19102": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19108": "/assets/gallery/1b46677548b576f5.webp",
+      "19110": "/assets/gallery/17ad5df573489049.webp",
+      "19109": "/assets/gallery/33becc33d0bf0c7d.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/rouie-hero.webp",
+      "splash": "/assets/gallery/f6cc8ffc37f0a354.webp"
+    }
+  },
+  "Celica": {
+    "order": [
+      "19201",
+      "19202",
+      "19204",
+      "19205",
+      "19203",
+      "19206",
+      "19207"
+    ],
+    "labels": {
+      "19201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19202": "/assets/gallery/f968b69d4151d3a2.webp",
+      "19204": "/assets/gallery/17ad5df573489049.webp",
+      "19205": "/assets/gallery/17ad5df573489049.webp",
+      "19203": "/assets/gallery/63ae7986eec98af6.webp",
+      "19206": "/assets/gallery/c17982106cad41b8.webp",
+      "19207": "/assets/gallery/8e7ecffaca858d84.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/celica-hero.webp",
+      "splash": "/assets/gallery/a9d2b4a59aa04f6b.webp"
+    }
+  },
+  "Amily": {
+    "order": [
+      "19301",
+      "19303",
+      "19302",
+      "19304",
+      "19305",
+      "19310",
+      "19307",
+      "19306",
+      "19312"
+    ],
+    "labels": {
+      "19301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19303": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "19302": "/assets/gallery/57671f22d8c69b7a.webp",
+      "19304": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19305": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19310": "/assets/gallery/17ad5df573489049.webp",
+      "19307": "/assets/gallery/17ad5df573489049.webp",
+      "19306": "/assets/gallery/55024aba6233bd6b.webp",
+      "19312": "/assets/gallery/3d0912f8cb7759a3.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/amily-hero.webp",
+      "splash": "/assets/gallery/72282c49e3ce3227.webp"
+    }
+  },
+  "Enzo": {
+    "order": [
+      "19501",
+      "19502",
+      "19503",
+      "19508",
+      "19506",
+      "19505",
+      "19509",
+      "19510",
+      "19511"
+    ],
+    "labels": {
+      "19501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19502": "/assets/gallery/f968b69d4151d3a2.webp",
+      "19503": "/assets/gallery/17ad5df573489049.webp",
+      "19508": "/assets/gallery/1aacfd8344cfcbb2.webp",
+      "19506": "/assets/gallery/d9fd86017b609a7e.webp",
+      "19505": "/assets/gallery/13d775f79543aa10.webp",
+      "19509": "/assets/gallery/fedd2b25635e9096.webp",
+      "19510": "/assets/gallery/1d92915b68b5e913.webp",
+      "19511": "/assets/gallery/a6004f28aff8ac10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/enzo-hero.webp",
+      "splash": "/assets/gallery/c4aa061b4b19b320.webp"
+    }
+  },
+  "Elsu": {
+    "order": [
+      "19602",
+      "19603",
+      "19601",
+      "19604",
+      "19605",
+      "19611",
+      "19609",
+      "19607",
+      "19606",
+      "19614"
+    ],
+    "labels": {
+      "19602": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19603": "/assets/gallery/0a6eb810f7f03c3a.webp",
+      "19601": "/assets/gallery/17ad5df573489049.webp",
+      "19604": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "19605": "/assets/gallery/fedd2b25635e9096.webp",
+      "19611": "/assets/gallery/50e3fc7bb8137637.webp",
+      "19609": "/assets/gallery/8f6453e532d104e0.webp",
+      "19607": "/assets/gallery/4a46069942b899f9.webp",
+      "19606": "/assets/gallery/17ad5df573489049.webp",
+      "19614": "/assets/gallery/8c7180e82501ad25.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/elsu-hero.webp",
+      "splash": "/assets/gallery/5dac969d3272bbf5.webp"
+    }
+  },
+  "Eland'orr": {
+    "order": [
+      "19901",
+      "19903",
+      "19902",
+      "19904",
+      "19905",
+      "19907",
+      "19908"
+    ],
+    "labels": {
+      "19901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "19903": "/assets/gallery/17ad5df573489049.webp",
+      "19902": "/assets/gallery/17ad5df573489049.webp",
+      "19904": "/assets/gallery/57671f22d8c69b7a.webp",
+      "19905": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "19907": "/assets/gallery/98e7cbfcdc98a335.webp",
+      "19908": "/assets/gallery/f6ab920c7395383a.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/elandorr-hero.webp",
+      "splash": "/assets/gallery/59625c2d0207f6c3.webp"
+    }
+  },
+  "Charlotte": {
+    "order": [
+      "20601"
+    ],
+    "labels": {
+      "20601": "/assets/gallery/c291bd5444865538.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/charlotte-hero.webp",
+      "splash": "/assets/gallery/417a8eea4557a38a.webp"
+    }
+  },
+  "Tel'Annas": {
+    "order": [
+      "50101",
+      "50103",
+      "50102",
+      "50104",
+      "50105",
+      "50107",
+      "50106",
+      "50108",
+      "50110",
+      "50111",
+      "50117",
+      "50116",
+      "50114",
+      "50112",
+      "50119",
+      "50120",
+      "50121"
+    ],
+    "labels": {
+      "50101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50103": "/assets/gallery/0a6eb810f7f03c3a.webp",
+      "50102": "/assets/gallery/f968b69d4151d3a2.webp",
+      "50104": "/assets/gallery/17ad5df573489049.webp",
+      "50105": "/assets/gallery/d2244380f75d8f6a.webp",
+      "50107": "/assets/gallery/17ad5df573489049.webp",
+      "50106": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50108": "/assets/gallery/9f031bce80f22710.webp",
+      "50110": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50111": "/assets/gallery/8f6453e532d104e0.webp",
+      "50117": "/assets/gallery/8f6453e532d104e0.webp",
+      "50116": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50114": "/assets/gallery/539dd4ee38aad674.webp",
+      "50112": "/assets/gallery/d2244380f75d8f6a.webp",
+      "50119": "/assets/gallery/d2244380f75d8f6a.webp",
+      "50120": "/assets/gallery/13d775f79543aa10.webp",
+      "50121": "/assets/gallery/8e298b8277879142.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/telannas-hero.webp",
+      "splash": "/assets/gallery/3ea365949611e6f7.webp"
+    }
+  },
+  "Astrid": {
+    "order": [
+      "50201",
+      "50202",
+      "50203",
+      "50204",
+      "50207",
+      "50206",
+      "50205",
+      "50208",
+      "50209",
+      "50210"
+    ],
+    "labels": {
+      "50201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50202": "/assets/gallery/d17bd246939e78ed.webp",
+      "50203": "/assets/gallery/17ad5df573489049.webp",
+      "50204": "/assets/gallery/17ad5df573489049.webp",
+      "50207": "/assets/gallery/17ad5df573489049.webp",
+      "50206": "/assets/gallery/bf4aaaa229657d4c.webp",
+      "50205": "/assets/gallery/17ad5df573489049.webp",
+      "50208": "/assets/gallery/17ad5df573489049.webp",
+      "50209": "/assets/gallery/17ad5df573489049.webp",
+      "50210": "/assets/gallery/8e298b8277879142.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/astrid-hero.webp",
+      "splash": "/assets/gallery/fde1bb941163d6e0.webp"
+    }
+  },
+  "Zuka": {
+    "order": [
+      "50302",
+      "50303",
+      "50304",
+      "50305",
+      "50306",
+      "50307",
+      "50308",
+      "50309",
+      "50310",
+      "50311",
+      "50313"
+    ],
+    "labels": {
+      "50302": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50303": "/assets/gallery/f968b69d4151d3a2.webp",
+      "50304": "/assets/gallery/a9cbc1ff9747c419.webp",
+      "50305": "/assets/gallery/f968b69d4151d3a2.webp",
+      "50306": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "50307": "/assets/gallery/17ad5df573489049.webp",
+      "50308": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50309": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50310": "/assets/gallery/c78a4d087f8a91e3.webp",
+      "50311": "/assets/gallery/13d775f79543aa10.webp",
+      "50313": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/zuka-hero.webp",
+      "splash": "/assets/gallery/bccf29e30a1f7d98.webp"
+    }
+  },
+  "Wonder Woman": {
+    "order": [
+      "50401"
+    ],
+    "labels": {
+      "50401": "/assets/gallery/05a1c4709e7c220c.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/wonderwoman-hero.webp",
+      "splash": "/assets/gallery/9f962716abfd916b.webp"
+    }
+  },
+  "Baldum": {
+    "order": [
+      "50501",
+      "50502",
+      "50503",
+      "50504",
+      "50505",
+      "50506",
+      "50507"
+    ],
+    "labels": {
+      "50501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50502": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "50503": "/assets/gallery/17ad5df573489049.webp",
+      "50504": "/assets/gallery/17ad5df573489049.webp",
+      "50505": "/assets/gallery/17ad5df573489049.webp",
+      "50506": "/assets/gallery/f20f93e5ea3b92a4.webp",
+      "50507": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/baldum-hero.webp",
+      "splash": "/assets/gallery/9fc4d6097e5e208f.webp"
+    }
+  },
+  "Omen": {
+    "order": [
+      "50601",
+      "50602",
+      "50603",
+      "50605",
+      "50604",
+      "50606",
+      "50612",
+      "50611",
+      "50608",
+      "50607",
+      "50610",
+      "50613"
+    ],
+    "labels": {
+      "50601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50602": "/assets/gallery/57671f22d8c69b7a.webp",
+      "50603": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "50605": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "50604": "/assets/gallery/8f6453e532d104e0.webp",
+      "50606": "/assets/gallery/17ad5df573489049.webp",
+      "50612": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50611": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50608": "/assets/gallery/13d775f79543aa10.webp",
+      "50607": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50610": "/assets/gallery/13d775f79543aa10.webp",
+      "50613": "/assets/gallery/4bcc73d72681cbbc.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/omen-hero.webp",
+      "splash": "/assets/gallery/18b436381a900c91.webp"
+    }
+  },
+  "The Flash": {
+    "order": [],
+    "labels": {},
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/theflash-hero.webp",
+      "splash": "/assets/gallery/16830b7d93bdd3c6.webp"
+    }
+  },
+  "Wisp": {
+    "order": [
+      "50801",
+      "50802",
+      "50803",
+      "50807",
+      "50806",
+      "50805",
+      "50808",
+      "50809",
+      "50810"
+    ],
+    "labels": {
+      "50801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50802": "/assets/gallery/bbe0d8ba1ed80cf6.webp",
+      "50803": "/assets/gallery/f968b69d4151d3a2.webp",
+      "50807": "/assets/gallery/17ad5df573489049.webp",
+      "50806": "/assets/gallery/17ad5df573489049.webp",
+      "50805": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "50808": "/assets/gallery/17ad5df573489049.webp",
+      "50809": "/assets/gallery/a6004f28aff8ac10.webp",
+      "50810": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/wisp-hero.webp",
+      "splash": "/assets/gallery/56000d1836216cdc.webp"
+    }
+  },
+  "Y'bneth": {
+    "order": [
+      "50901",
+      "50902",
+      "50903",
+      "50905",
+      "50906",
+      "50907"
+    ],
+    "labels": {
+      "50901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "50902": "/assets/gallery/17ad5df573489049.webp",
+      "50903": "/assets/gallery/17ad5df573489049.webp",
+      "50905": "/assets/gallery/73a3a8b39cb2a1e1.webp",
+      "50906": "/assets/gallery/17ad5df573489049.webp",
+      "50907": "/assets/gallery/97f2d932486c86e6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ybneth-hero.webp",
+      "splash": "/assets/gallery/3000ad8167bd11db.webp"
+    }
+  },
+  "Liliana": {
+    "order": [
+      "51001",
+      "51002",
+      "51003",
+      "51004",
+      "51005",
+      "51006",
+      "51008",
+      "51009",
+      "51007",
+      "51013",
+      "51014",
+      "51015"
+    ],
+    "labels": {
+      "51001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51002": "/assets/gallery/57671f22d8c69b7a.webp",
+      "51003": "/assets/gallery/8f6453e532d104e0.webp",
+      "51004": "/assets/gallery/fedd2b25635e9096.webp",
+      "51005": "/assets/gallery/ded2fa8f50b23e1f.webp",
+      "51006": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51008": "/assets/gallery/17ad5df573489049.webp",
+      "51009": "/assets/gallery/862c5cda44bd5a4b.webp",
+      "51007": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51013": "/assets/gallery/73291c9d78c9612f.webp",
+      "51014": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51015": "/assets/gallery/ea0cbc1a680bfb1f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/liliana-hero.webp",
+      "splash": "/assets/gallery/6fc8313ce34cf17b.webp"
+    }
+  },
+  "Ata": {
+    "order": [
+      "51101",
+      "51102",
+      "51105",
+      "51104",
+      "51103",
+      "51108",
+      "51109"
+    ],
+    "labels": {
+      "51101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51102": "/assets/gallery/17ad5df573489049.webp",
+      "51105": "/assets/gallery/17ad5df573489049.webp",
+      "51104": "/assets/gallery/17ad5df573489049.webp",
+      "51103": "/assets/gallery/3a80ecf88fa74b53.webp",
+      "51108": "/assets/gallery/c8b3bbece5b0095a.webp",
+      "51109": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ata-hero.webp",
+      "splash": "/assets/gallery/7a5cb30a0a5420a3.webp"
+    }
+  },
+  "Rourke": {
+    "order": [
+      "51201",
+      "51202",
+      "51203",
+      "51204",
+      "51207",
+      "51208",
+      "51209"
+    ],
+    "labels": {
+      "51201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51202": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "51203": "/assets/gallery/17ad5df573489049.webp",
+      "51204": "/assets/gallery/17ad5df573489049.webp",
+      "51207": "/assets/gallery/d4205366851a8b9e.webp",
+      "51208": "/assets/gallery/8f6453e532d104e0.webp",
+      "51209": "/assets/gallery/f7341f85fe3da556.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/rourke-hero.webp",
+      "splash": "/assets/gallery/2a44716f27f1e425.webp"
+    }
+  },
+  "Zata": {
+    "order": [
+      "51301",
+      "51302",
+      "51306",
+      "51305",
+      "51304",
+      "51303",
+      "51307",
+      "51308"
+    ],
+    "labels": {
+      "51301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51302": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51306": "/assets/gallery/8f6453e532d104e0.webp",
+      "51305": "/assets/gallery/2252a51d5a0e33f1.webp",
+      "51304": "/assets/gallery/16ac2290eb491acb.webp",
+      "51303": "/assets/gallery/57671f22d8c69b7a.webp",
+      "51307": "/assets/gallery/6aa38f133a17ead1.webp",
+      "51308": "/assets/gallery/9090dc10b39f5251.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/zata-hero.webp",
+      "splash": "/assets/gallery/5235a45105bde797.webp"
+    }
+  },
+  "Roxie": {
+    "order": [
+      "51401",
+      "51402",
+      "51403",
+      "51404",
+      "51408",
+      "51406",
+      "51409",
+      "51405"
+    ],
+    "labels": {
+      "51401": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51402": "/assets/gallery/0a6eb810f7f03c3a.webp",
+      "51403": "/assets/gallery/17ad5df573489049.webp",
+      "51404": "/assets/gallery/17ad5df573489049.webp",
+      "51408": "/assets/gallery/6ef257f71cbf80a3.webp",
+      "51406": "/assets/gallery/d618ce9893b485a5.webp",
+      "51409": "/assets/gallery/35054220a00d895f.webp",
+      "51405": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/roxie-hero.webp",
+      "splash": "/assets/gallery/e2865944a9a134e4.webp"
+    }
+  },
+  "Richter": {
+    "order": [
+      "51501",
+      "51502",
+      "51503",
+      "51505",
+      "51508",
+      "51509"
+    ],
+    "labels": {
+      "51501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51502": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51503": "/assets/gallery/17ad5df573489049.webp",
+      "51505": "/assets/gallery/b4c5320d77610761.webp",
+      "51508": "/assets/gallery/17ad5df573489049.webp",
+      "51509": "/assets/gallery/a4c38c0e15b8a494.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/richter-hero.webp",
+      "splash": "/assets/gallery/941aecf907eef9f6.webp"
+    }
+  },
+  "Quillen": {
+    "order": [
+      "51801",
+      "51803",
+      "51802",
+      "51805",
+      "51804",
+      "51806",
+      "51807",
+      "51810",
+      "51809",
+      "51808",
+      "51812",
+      "51813",
+      "51814"
+    ],
+    "labels": {
+      "51801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51803": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51802": "/assets/gallery/8f6453e532d104e0.webp",
+      "51805": "/assets/gallery/17ad5df573489049.webp",
+      "51804": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51806": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51807": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51810": "/assets/gallery/d17bd246939e78ed.webp",
+      "51809": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51808": "/assets/gallery/fedd2b25635e9096.webp",
+      "51812": "/assets/gallery/17ad5df573489049.webp",
+      "51813": "/assets/gallery/17ad5df573489049.webp",
+      "51814": "/assets/gallery/41bb4ed9118445a0.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/quillen-hero.webp",
+      "splash": "/assets/gallery/0743a6855cda9d71.webp"
+    }
+  },
+  "Annette": {
+    "order": [
+      "51901",
+      "51902",
+      "51903",
+      "51904",
+      "51909",
+      "51908",
+      "51907",
+      "51906",
+      "51905",
+      "51911",
+      "51912"
+    ],
+    "labels": {
+      "51901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "51902": "/assets/gallery/17ad5df573489049.webp",
+      "51903": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51904": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51909": "/assets/gallery/dab541b903150220.webp",
+      "51908": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51907": "/assets/gallery/3ab45ca3505f54c5.webp",
+      "51906": "/assets/gallery/17ad5df573489049.webp",
+      "51905": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "51911": "/assets/gallery/17ad5df573489049.webp",
+      "51912": "/assets/gallery/f2db31078e077755.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/annette-hero.webp",
+      "splash": "/assets/gallery/764a4c682e22f3ce.webp"
+    }
+  },
+  "Veres": {
+    "order": [
+      "52001",
+      "52002",
+      "52003",
+      "52006",
+      "52010",
+      "52009",
+      "52008",
+      "52004",
+      "52007",
+      "52011",
+      "52013",
+      "52014",
+      "52015"
+    ],
+    "labels": {
+      "52001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52002": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "52003": "/assets/gallery/17ad5df573489049.webp",
+      "52006": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52010": "/assets/gallery/57671f22d8c69b7a.webp",
+      "52009": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52008": "/assets/gallery/e3d244baf211422f.webp",
+      "52004": "/assets/gallery/17ad5df573489049.webp",
+      "52007": "/assets/gallery/fedd2b25635e9096.webp",
+      "52011": "/assets/gallery/42e781c6804df548.webp",
+      "52013": "/assets/gallery/13d775f79543aa10.webp",
+      "52014": "/assets/gallery/9090dc10b39f5251.webp",
+      "52015": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/veres-hero.webp",
+      "splash": "/assets/gallery/fd95b099bfe6fd50.webp"
+    }
+  },
+  "Florentino": {
+    "order": [
+      "52101",
+      "52102",
+      "52103",
+      "52105",
+      "52104",
+      "52106",
+      "52110",
+      "52108",
+      "52107",
+      "52111",
+      "52112",
+      "52113"
+    ],
+    "labels": {
+      "52101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52102": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "52103": "/assets/gallery/17ad5df573489049.webp",
+      "52105": "/assets/gallery/da4648dd5b166e0d.webp",
+      "52104": "/assets/gallery/17ad5df573489049.webp",
+      "52106": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52110": "/assets/gallery/6a53ae704c324e9f.webp",
+      "52108": "/assets/gallery/ffa6d255f5b2b6d8.webp",
+      "52107": "/assets/gallery/17ad5df573489049.webp",
+      "52111": "/assets/gallery/aebbd837ea509e0b.webp",
+      "52112": "/assets/gallery/72c093b625167daa.webp",
+      "52113": "/assets/gallery/fedd2b25635e9096.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/florentino-hero.webp",
+      "splash": "/assets/gallery/0ecf0b4d6e59afc7.webp"
+    }
+  },
+  "Errol": {
+    "order": [
+      "52201",
+      "52202",
+      "52203",
+      "52208",
+      "52207",
+      "52205",
+      "52204",
+      "52209",
+      "52210"
+    ],
+    "labels": {
+      "52201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52202": "/assets/gallery/f968b69d4151d3a2.webp",
+      "52203": "/assets/gallery/17ad5df573489049.webp",
+      "52208": "/assets/gallery/17ad5df573489049.webp",
+      "52207": "/assets/gallery/83a917eff4f27097.webp",
+      "52205": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52204": "/assets/gallery/6d4ce42c74dde21f.webp",
+      "52209": "/assets/gallery/1a338e0680da4bc3.webp",
+      "52210": "/assets/gallery/fb980188b5a1674f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/errol-hero.webp",
+      "splash": "/assets/gallery/133a6722b33faaf2.webp"
+    }
+  },
+  "D'Arcy": {
+    "order": [
+      "52301",
+      "52302",
+      "52303",
+      "52304",
+      "52305",
+      "52306",
+      "52307"
+    ],
+    "labels": {
+      "52301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52302": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "52303": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52304": "/assets/gallery/57671f22d8c69b7a.webp",
+      "52305": "/assets/gallery/17ad5df573489049.webp",
+      "52306": "/assets/gallery/655455d165046c80.webp",
+      "52307": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/darcy-hero.webp",
+      "splash": "/assets/gallery/85a0026f3d557076.webp"
+    }
+  },
+  "Capheny": {
+    "order": [
+      "52401",
+      "52402",
+      "52404",
+      "52403",
+      "52406",
+      "52410",
+      "52408",
+      "52407",
+      "52405",
+      "52412",
+      "52411",
+      "52414",
+      "52416"
+    ],
+    "labels": {
+      "52401": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52402": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52404": "/assets/gallery/8f6453e532d104e0.webp",
+      "52403": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52406": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52410": "/assets/gallery/33815d9771d11169.webp",
+      "52408": "/assets/gallery/57671f22d8c69b7a.webp",
+      "52407": "/assets/gallery/e4fec39447916043.webp",
+      "52405": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52412": "/assets/gallery/2ff78fadcc911c45.webp",
+      "52411": "/assets/gallery/591a1027eda15b56.webp",
+      "52414": "/assets/gallery/022c57758c481240.webp",
+      "52416": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/capheny-hero.webp",
+      "splash": "/assets/gallery/760e92727dc733c1.webp"
+    }
+  },
+  "Zip": {
+    "order": [
+      "52501",
+      "52502",
+      "52503",
+      "52505",
+      "52506",
+      "52508"
+    ],
+    "labels": {
+      "52501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52502": "/assets/gallery/17ad5df573489049.webp",
+      "52503": "/assets/gallery/17ad5df573489049.webp",
+      "52505": "/assets/gallery/17ad5df573489049.webp",
+      "52506": "/assets/gallery/17ad5df573489049.webp",
+      "52508": "/assets/gallery/8e7ecffaca858d84.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/zip-hero.webp",
+      "splash": "/assets/gallery/d0e27d479ff4a05f.webp"
+    }
+  },
+  "Ishar": {
+    "order": [
+      "52601",
+      "52602",
+      "52603",
+      "52609",
+      "52608",
+      "52605",
+      "52604",
+      "52607",
+      "52610",
+      "52611",
+      "52612"
+    ],
+    "labels": {
+      "52601": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52602": "/assets/gallery/f968b69d4151d3a2.webp",
+      "52603": "/assets/gallery/17ad5df573489049.webp",
+      "52609": "/assets/gallery/17ad5df573489049.webp",
+      "52608": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52605": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52604": "/assets/gallery/17ad5df573489049.webp",
+      "52607": "/assets/gallery/17ad5df573489049.webp",
+      "52610": "/assets/gallery/694af129cc468a6b.webp",
+      "52611": "/assets/gallery/8e7ecffaca858d84.webp",
+      "52612": "/assets/gallery/47ccf8a4d9a56454.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ishar-hero.webp",
+      "splash": "/assets/gallery/0932e8acd066a87c.webp"
+    }
+  },
+  "Sephera": {
+    "order": [
+      "52701",
+      "52703",
+      "52702",
+      "52704",
+      "52708",
+      "52709",
+      "52705",
+      "52706",
+      "52707",
+      "52710",
+      "52712"
+    ],
+    "labels": {
+      "52701": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52703": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52702": "/assets/gallery/57671f22d8c69b7a.webp",
+      "52704": "/assets/gallery/17ad5df573489049.webp",
+      "52708": "/assets/gallery/a7e64e33e08c051a.webp",
+      "52709": "/assets/gallery/8f6453e532d104e0.webp",
+      "52705": "/assets/gallery/17ad5df573489049.webp",
+      "52706": "/assets/gallery/57671f22d8c69b7a.webp",
+      "52707": "/assets/gallery/17ad5df573489049.webp",
+      "52710": "/assets/gallery/fe0a6997647b4dd5.webp",
+      "52712": "/assets/gallery/ed4c315fab586bf5.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/sephera-hero.webp",
+      "splash": "/assets/gallery/33eed58f5762304c.webp"
+    }
+  },
+  "Qi": {
+    "order": [
+      "52801",
+      "52802",
+      "52806",
+      "52805",
+      "52803",
+      "52808",
+      "52809",
+      "52810"
+    ],
+    "labels": {
+      "52801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52802": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52806": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52805": "/assets/gallery/b411236e1aca0afc.webp",
+      "52803": "/assets/gallery/fe2cfb2ab06f11c2.webp",
+      "52808": "/assets/gallery/d20b736226c039a6.webp",
+      "52809": "/assets/gallery/801b3d8b96064f13.webp",
+      "52810": "/assets/gallery/037adf3cd65a5f71.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/qi-hero.webp",
+      "splash": "/assets/gallery/3dc4d7470c5426d6.webp"
+    }
+  },
+  "Volkath": {
+    "order": [
+      "52901",
+      "52902",
+      "52903",
+      "52904",
+      "52905",
+      "52906",
+      "52907",
+      "52908"
+    ],
+    "labels": {
+      "52901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "52902": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52903": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52904": "/assets/gallery/17ad5df573489049.webp",
+      "52905": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "52906": "/assets/gallery/82be75e1f03d0019.webp",
+      "52907": "/assets/gallery/e61da4afa713ede1.webp",
+      "52908": "/assets/gallery/fedd2b25635e9096.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/volkath-hero.webp",
+      "splash": "/assets/gallery/a11fadfbc01a1775.webp"
+    }
+  },
+  "Dirak": {
+    "order": [
+      "53001",
+      "53002",
+      "53003",
+      "53005",
+      "53007",
+      "53009"
+    ],
+    "labels": {
+      "53001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53002": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53003": "/assets/gallery/4fb47279af5891b5.webp",
+      "53005": "/assets/gallery/0d10d36678727358.webp",
+      "53007": "/assets/gallery/631c9062178e841b.webp",
+      "53009": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/dirak-hero.webp",
+      "splash": "/assets/gallery/5a8dee2b60777cf3.webp"
+    }
+  },
+  "Keera": {
+    "order": [
+      "53101",
+      "53102",
+      "53103",
+      "53105",
+      "53109",
+      "53107",
+      "53104",
+      "53110",
+      "53111",
+      "53112",
+      "53113"
+    ],
+    "labels": {
+      "53101": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53102": "/assets/gallery/17ad5df573489049.webp",
+      "53103": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53105": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53109": "/assets/gallery/17ad5df573489049.webp",
+      "53107": "/assets/gallery/a8dfcb28e86c0401.webp",
+      "53104": "/assets/gallery/17ad5df573489049.webp",
+      "53110": "/assets/gallery/17ad5df573489049.webp",
+      "53111": "/assets/gallery/a7b5e25df8b3c114.webp",
+      "53112": "/assets/gallery/4d212e8ac4472f2b.webp",
+      "53113": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/keera-hero.webp",
+      "splash": "/assets/gallery/8edc1a91bdc14ddf.webp"
+    }
+  },
+  "Thorne": {
+    "order": [
+      "53201",
+      "53202",
+      "53203",
+      "53204",
+      "53205",
+      "53207",
+      "53206"
+    ],
+    "labels": {
+      "53201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53202": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53203": "/assets/gallery/2a260e0061828250.webp",
+      "53204": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53205": "/assets/gallery/17ad5df573489049.webp",
+      "53207": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "53206": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/thorne-hero.webp",
+      "splash": "/assets/gallery/0f0823ebc7273f75.webp"
+    }
+  },
+  "Laville": {
+    "order": [
+      "53301",
+      "53302",
+      "53303",
+      "53304",
+      "53305",
+      "53306",
+      "53307",
+      "53308",
+      "53309",
+      "53310",
+      "53312",
+      "53311",
+      "53313"
+    ],
+    "labels": {
+      "53301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53302": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53303": "/assets/gallery/bb7a141f86d6193a.webp",
+      "53304": "/assets/gallery/8f6453e532d104e0.webp",
+      "53305": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53306": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53307": "/assets/gallery/17ad5df573489049.webp",
+      "53308": "/assets/gallery/fac334b2b04c82a2.webp",
+      "53309": "/assets/gallery/fedd2b25635e9096.webp",
+      "53310": "/assets/gallery/17ad5df573489049.webp",
+      "53312": "/assets/gallery/1bbb73c49e6ca2c8.webp",
+      "53311": "/assets/gallery/b63d716a68a50e10.webp",
+      "53313": "/assets/gallery/ef9dc05f2d5f9c86.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/laville-hero.webp",
+      "splash": "/assets/gallery/f2775df26344a293.webp"
+    }
+  },
+  "Dextra": {
+    "order": [
+      "53401",
+      "53402",
+      "53404",
+      "53405",
+      "53406",
+      "53407",
+      "53408"
+    ],
+    "labels": {
+      "53401": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53402": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53404": "/assets/gallery/17ad5df573489049.webp",
+      "53405": "/assets/gallery/13d775f79543aa10.webp",
+      "53406": "/assets/gallery/17ad5df573489049.webp",
+      "53407": "/assets/gallery/7e0d7a68dcf9dfbd.webp",
+      "53408": "/assets/gallery/ef9dc05f2d5f9c86.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/dextra-hero.webp",
+      "splash": "/assets/gallery/14d2d0e763c6df72.webp"
+    }
+  },
+  "Sinestrea": {
+    "order": [
+      "53501",
+      "53502",
+      "53503",
+      "53507",
+      "53509",
+      "53510",
+      "53511",
+      "53512",
+      "53513"
+    ],
+    "labels": {
+      "53501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53502": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53503": "/assets/gallery/b37ddc41b9948dab.webp",
+      "53507": "/assets/gallery/17ad5df573489049.webp",
+      "53509": "/assets/gallery/17ad5df573489049.webp",
+      "53510": "/assets/gallery/e27cb03893152641.webp",
+      "53511": "/assets/gallery/4f60e1f035e8a2ad.webp",
+      "53512": "/assets/gallery/f22008d40265f783.webp",
+      "53513": "/assets/gallery/ef9dc05f2d5f9c86.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/sinestrea-hero.webp",
+      "splash": "/assets/gallery/d7b068624d8f1ab3.webp"
+    }
+  },
+  "Aoi": {
+    "order": [
+      "53601",
+      "53602",
+      "53604",
+      "53605",
+      "53606",
+      "53608",
+      "53609",
+      "53612"
+    ],
+    "labels": {
+      "53601": "/assets/gallery/17ad5df573489049.webp",
+      "53602": "/assets/gallery/b72f097af638a1bf.webp",
+      "53604": "/assets/gallery/17ad5df573489049.webp",
+      "53605": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53606": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53608": "/assets/gallery/deabb22b775b93a7.webp",
+      "53609": "/assets/gallery/96ceda71c4d4a2ac.webp",
+      "53612": "/assets/gallery/037adf3cd65a5f71.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/aoi-hero.webp",
+      "splash": "/assets/gallery/eab30dfc845b0e33.webp"
+    }
+  },
+  "Allain": {
+    "order": [
+      "53702",
+      "53703",
+      "53704",
+      "53705",
+      "53706",
+      "53707",
+      "53708",
+      "53709"
+    ],
+    "labels": {
+      "53702": "/assets/gallery/ab407f62a7e5d2a0.webp",
+      "53703": "/assets/gallery/fedd2b25635e9096.webp",
+      "53704": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53705": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53706": "/assets/gallery/d17bd246939e78ed.webp",
+      "53707": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "53708": "/assets/gallery/9a7cfbffd55910d7.webp",
+      "53709": "/assets/gallery/0ca2a85bcd419212.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/allain-hero.webp",
+      "splash": "/assets/gallery/ae417f61e71c7863.webp"
+    }
+  },
+  "Iggy": {
+    "order": [
+      "53801",
+      "53802",
+      "53803",
+      "53805",
+      "53806",
+      "53807"
+    ],
+    "labels": {
+      "53801": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53802": "/assets/gallery/13d775f79543aa10.webp",
+      "53803": "/assets/gallery/17ad5df573489049.webp",
+      "53805": "/assets/gallery/0cd3d820cd1adc6a.webp",
+      "53806": "/assets/gallery/801b3d8b96064f13.webp",
+      "53807": "/assets/gallery/58905e109f6ef96f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/iggy-hero.webp",
+      "splash": "/assets/gallery/7ff840d7db9be9b1.webp"
+    }
+  },
+  "Lorion": {
+    "order": [
+      "53901",
+      "53902",
+      "53903",
+      "53904",
+      "53905"
+    ],
+    "labels": {
+      "53901": "/assets/gallery/05a1c4709e7c220c.webp",
+      "53902": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53903": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53904": "/assets/gallery/57671f22d8c69b7a.webp",
+      "53905": "/assets/gallery/57949347f29d8e69.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/lorion-hero.webp",
+      "splash": "/assets/gallery/5fdc262df00772be.webp"
+    }
+  },
+  "Bright": {
+    "order": [
+      "54001",
+      "54002",
+      "54003",
+      "54004",
+      "54006",
+      "54007",
+      "54005"
+    ],
+    "labels": {
+      "54001": "/assets/gallery/05a1c4709e7c220c.webp",
+      "54002": "/assets/gallery/34c84a5c9cd95701.webp",
+      "54003": "/assets/gallery/a523ab6358bdecba.webp",
+      "54004": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "54006": "/assets/gallery/17ad5df573489049.webp",
+      "54007": "/assets/gallery/5d342af8da8c3a66.webp",
+      "54005": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/bright-hero.webp",
+      "splash": "/assets/gallery/fad7096fd2cb31da.webp"
+    }
+  },
+  "Bonnie": {
+    "order": [
+      "54101",
+      "54102",
+      "54103",
+      "54104",
+      "54105"
+    ],
+    "labels": {
+      "54101": "/assets/gallery/f968b69d4151d3a2.webp",
+      "54102": "/assets/gallery/57671f22d8c69b7a.webp",
+      "54103": "/assets/gallery/17ad5df573489049.webp",
+      "54104": "/assets/gallery/c3d6911cdd070fdd.webp",
+      "54105": "/assets/gallery/fb980188b5a1674f.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/bonnie-hero.webp",
+      "splash": "/assets/gallery/7675d1334944022e.webp"
+    }
+  },
+  "Tachi": {
+    "order": [
+      "54201",
+      "54202",
+      "54203",
+      "54204",
+      "54205",
+      "54206",
+      "54209"
+    ],
+    "labels": {
+      "54201": "/assets/gallery/05a1c4709e7c220c.webp",
+      "54202": "/assets/gallery/57671f22d8c69b7a.webp",
+      "54203": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "54204": "/assets/gallery/251f29648369f238.webp",
+      "54205": "/assets/gallery/f7768410459445c2.webp",
+      "54206": "/assets/gallery/17ad5df573489049.webp",
+      "54209": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/tachi-hero.webp",
+      "splash": "/assets/gallery/cb4ddad3f1f6e0ae.webp"
+    }
+  },
+  "Aya": {
+    "order": [
+      "54301",
+      "54303",
+      "54304",
+      "54302",
+      "54307",
+      "54308",
+      "54309"
+    ],
+    "labels": {
+      "54301": "/assets/gallery/05a1c4709e7c220c.webp",
+      "54303": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "54304": "/assets/gallery/17ad5df573489049.webp",
+      "54302": "/assets/gallery/ac71b91bab0d4cf3.webp",
+      "54307": "/assets/gallery/f6ab920c7395383a.webp",
+      "54308": "/assets/gallery/241787ed2207a250.webp",
+      "54309": "/assets/gallery/5eeedb1987f9648e.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/aya-hero.webp",
+      "splash": "/assets/gallery/3f93aa6333d08679.webp"
+    }
+  },
+  "Yan": {
+    "order": [
+      "54401",
+      "54402",
+      "54403",
+      "54404",
+      "54405",
+      "54406"
+    ],
+    "labels": {
+      "54401": "/assets/gallery/f968b69d4151d3a2.webp",
+      "54402": "/assets/gallery/ee9077d3723e8d58.webp",
+      "54403": "/assets/gallery/13d775f79543aa10.webp",
+      "54404": "/assets/gallery/055297ff541081c8.webp",
+      "54405": "/assets/gallery/0fe152f9756aa4c5.webp",
+      "54406": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/yan-hero.webp",
+      "splash": "/assets/gallery/5be65e9d558a2366.webp"
+    }
+  },
+  "Yue": {
+    "order": [
+      "54501",
+      "54503",
+      "54504",
+      "54505",
+      "54507"
+    ],
+    "labels": {
+      "54501": "/assets/gallery/05a1c4709e7c220c.webp",
+      "54503": "/assets/gallery/57671f22d8c69b7a.webp",
+      "54504": "/assets/gallery/ef9dc05f2d5f9c86.webp",
+      "54505": "/assets/gallery/ae2ff0e35aeac665.webp",
+      "54507": "/assets/gallery/484cbe28ffc4056c.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/yue-hero.webp",
+      "splash": "/assets/gallery/87d7d51f547ee23a.webp"
+    }
+  },
+  "Teeri": {
+    "order": [
+      "54603",
+      "54605",
+      "54602",
+      "54607",
+      "54606"
+    ],
+    "labels": {
+      "54603": "/assets/gallery/57671f22d8c69b7a.webp",
+      "54605": "/assets/gallery/1c326d2095e1745a.webp",
+      "54602": "/assets/gallery/13d775f79543aa10.webp",
+      "54607": "/assets/gallery/a24e958d5db142d2.webp",
+      "54606": "/assets/gallery/543d7cab2dbefbc6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/teeri-hero.webp",
+      "splash": "/assets/gallery/d64a501c8cfab4a5.webp"
+    }
+  },
+  "Bijan": {
+    "order": [
+      "54801",
+      "54802",
+      "54804",
+      "54803",
+      "54805",
+      "54806"
+    ],
+    "labels": {
+      "54801": "/assets/gallery/f968b69d4151d3a2.webp",
+      "54802": "/assets/gallery/8f6453e532d104e0.webp",
+      "54804": "/assets/gallery/364d038567d9c2c5.webp",
+      "54803": "/assets/gallery/62eb6c203bfb4ec2.webp",
+      "54805": "/assets/gallery/fedd2b25635e9096.webp",
+      "54806": "/assets/gallery/f5048b86a817e313.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/bijan-hero.webp",
+      "splash": "/assets/gallery/72916641133df548.webp"
+    }
+  },
+  "Heino": {
+    "order": [
+      "56302",
+      "56301"
+    ],
+    "labels": {
+      "56302": "/assets/gallery/037adf3cd65a5f71.webp",
+      "56301": "/assets/gallery/d17bd246939e78ed.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/heino-hero.webp",
+      "splash": "/assets/gallery/a0fc652501dfc8f5.webp"
+    }
+  },
+  "Erin": {
+    "order": [
+      "56701",
+      "56703",
+      "56704",
+      "56705"
+    ],
+    "labels": {
+      "56701": "/assets/gallery/3d0912f8cb7759a3.webp",
+      "56703": "/assets/gallery/8f6453e532d104e0.webp",
+      "56704": "/assets/gallery/5bd567c4692d42fc.webp",
+      "56705": "/assets/gallery/97f2d932486c86e6.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/erin-hero.webp",
+      "splash": "/assets/gallery/ea05e90a9d0ce0cb.webp"
+    }
+  },
+  "Ming": {
+    "order": [
+      "56801"
+    ],
+    "labels": {
+      "56801": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/ming-hero.webp",
+      "splash": "/assets/gallery/3b9da03cdbb0dc72.webp"
+    }
+  },
+  "Goverra": {
+    "order": [
+      "59601"
+    ],
+    "labels": {
+      "59601": "/assets/gallery/13d775f79543aa10.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/goverra-hero.webp",
+      "splash": "/assets/gallery/101d64a5c24c277a.webp"
+    }
+  },
+  "Biron": {
+    "order": [
+      "59702",
+      "59701"
+    ],
+    "labels": {
+      "59702": "/assets/gallery/a7bbc772c447560b.webp",
+      "59701": "/assets/gallery/3d0912f8cb7759a3.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/biron-hero.webp",
+      "splash": "/assets/gallery/73bef6c289e8a8f0.webp"
+    }
+  },
+  "Bolt Baron": {
+    "order": [
+      "59802",
+      "59801"
+    ],
+    "labels": {
+      "59802": "/assets/gallery/484cbe28ffc4056c.webp",
+      "59801": "/assets/gallery/17ad5df573489049.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/boltbaron-hero.webp",
+      "splash": "/assets/gallery/f5b56a69387fc5c6.webp"
+    }
+  },
+  "Billow": {
+    "order": [
+      "59901",
+      "59902",
+      "59903"
+    ],
+    "labels": {
+      "59901": "/assets/gallery/484cbe28ffc4056c.webp",
+      "59902": "/assets/gallery/fedd2b25635e9096.webp",
+      "59903": "/assets/gallery/56fb89d8d00522ef.webp"
+    },
+    "default": {
+      "name": "Mặc định",
+      "icon": "/assets/garena/billow-hero.webp",
+      "splash": "/assets/gallery/f0fe205c8fdb2287.webp"
+    }
+  }
+}
